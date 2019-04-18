@@ -1,0 +1,101 @@
+﻿2019-04-18 11:43:26.737 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevSaga\JasDev.Saga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 11:43:27.083 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 11:43:31.262 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 11:43:31.523 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 11:43:32.362 INFO  OrderSaga StartOrder received with OrderId affc974d-4fb2-473d-b108-05a46f144874
+2019-04-18 11:43:32.554 INFO  OrderSaga StartOrder received with OrderId 5f118a85-ed6c-4c11-880e-248d1be612ce
+2019-04-18 11:43:32.566 INFO  OrderSaga StartOrder received with OrderId 2c1d48cc-8bc5-4e75-8de4-6af30c8cf201
+2019-04-18 11:43:32.714 INFO  OrderSaga StartOrder received with OrderId ff507cc4-cffc-4935-9f0a-52422b7fefc1
+2019-04-18 11:43:32.786 INFO  OrderSaga StartOrder received with OrderId de39d74f-c7ec-4f11-b7ec-f743cea5ef83
+2019-04-18 11:43:32.797 INFO  OrderSaga StartOrder received with OrderId dd71d817-a542-41b9-948c-793bb4aca8ec
+2019-04-18 11:43:42.539 INFO  OrderSaga Process with OrderId affc974d-4fb2-473d-b108-05a46f144874
+2019-04-18 11:43:42.610 INFO  OrderSaga Process with OrderId 5f118a85-ed6c-4c11-880e-248d1be612ce
+2019-04-18 11:43:42.667 INFO  OrderSaga Process with OrderId 2c1d48cc-8bc5-4e75-8de4-6af30c8cf201
+2019-04-18 11:43:42.767 INFO  OrderSaga Process with OrderId ff507cc4-cffc-4935-9f0a-52422b7fefc1
+2019-04-18 11:43:42.850 INFO  OrderSaga Process with OrderId de39d74f-c7ec-4f11-b7ec-f743cea5ef83
+2019-04-18 11:43:42.862 INFO  OrderSaga Process with OrderId dd71d817-a542-41b9-948c-793bb4aca8ec
+2019-04-18 11:43:47.608 INFO  OrderSaga Last step CompleteOrder received with OrderId affc974d-4fb2-473d-b108-05a46f144874
+2019-04-18 11:43:47.679 INFO  OrderSaga Last step CompleteOrder received with OrderId 5f118a85-ed6c-4c11-880e-248d1be612ce
+2019-04-18 11:43:47.746 INFO  OrderSaga Last step CompleteOrder received with OrderId 2c1d48cc-8bc5-4e75-8de4-6af30c8cf201
+2019-04-18 11:43:47.822 INFO  OrderSaga Last step CompleteOrder received with OrderId ff507cc4-cffc-4935-9f0a-52422b7fefc1
+2019-04-18 11:43:47.917 INFO  OrderSaga Last step CompleteOrder received with OrderId dd71d817-a542-41b9-948c-793bb4aca8ec
+2019-04-18 11:43:47.929 INFO  OrderSaga Last step CompleteOrder received with OrderId de39d74f-c7ec-4f11-b7ec-f743cea5ef83
+2019-04-18 11:44:09.340 INFO  OrderSaga StartOrder received with OrderId 19d080a7-d958-4609-b306-ce48592b3a66
+2019-04-18 11:44:19.397 INFO  OrderSaga Process with OrderId 19d080a7-d958-4609-b306-ce48592b3a66
+2019-04-18 11:44:24.454 INFO  OrderSaga Last step CompleteOrder received with OrderId 19d080a7-d958-4609-b306-ce48592b3a66
+2019-04-18 11:49:14.406 INFO  OrderSaga StartOrder received with OrderId 6b98047c-bd8a-4043-b509-d79f5bca8875
+2019-04-18 11:49:24.467 INFO  OrderSaga Process with OrderId 6b98047c-bd8a-4043-b509-d79f5bca8875
+2019-04-18 11:49:29.533 INFO  OrderSaga Last step CompleteOrder received with OrderId 6b98047c-bd8a-4043-b509-d79f5bca8875
+2019-04-18 11:49:36.464 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 11:49:36.519 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-18 12:16:44.079 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevSaga\JasDev.Saga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:16:44.444 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:16:44.553 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 12:16:44.843 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 12:16:45.651 INFO  OrderSaga StartOrder received with OrderId a3c43f5f-0193-4826-91bd-9b386c005973
+2019-04-18 12:16:45.853 INFO  OrderSaga StartOrder received with OrderId ddf590b5-1dd6-4d4d-b9d1-77206dc6bf34
+2019-04-18 12:16:45.923 INFO  OrderSaga StartOrder received with OrderId e6d93e5c-5912-4165-ad2b-6d5acb79b5d0
+2019-04-18 12:16:45.936 INFO  OrderSaga StartOrder received with OrderId fbcaf87c-d065-43d3-b4c7-19c4e148eecb
+2019-04-18 12:16:55.838 INFO  OrderSaga Process with OrderId a3c43f5f-0193-4826-91bd-9b386c005973
+2019-04-18 12:16:55.909 INFO  OrderSaga Process with OrderId ddf590b5-1dd6-4d4d-b9d1-77206dc6bf34
+2019-04-18 12:16:56.003 INFO  OrderSaga Process with OrderId fbcaf87c-d065-43d3-b4c7-19c4e148eecb
+2019-04-18 12:16:56.015 INFO  OrderSaga Process with OrderId e6d93e5c-5912-4165-ad2b-6d5acb79b5d0
+2019-04-18 12:17:00.901 INFO  OrderSaga Last step CompleteOrder received with OrderId a3c43f5f-0193-4826-91bd-9b386c005973
+2019-04-18 12:17:00.972 INFO  OrderSaga Last step CompleteOrder received with OrderId ddf590b5-1dd6-4d4d-b9d1-77206dc6bf34
+2019-04-18 12:17:01.070 INFO  OrderSaga Last step CompleteOrder received with OrderId fbcaf87c-d065-43d3-b4c7-19c4e148eecb
+2019-04-18 12:17:01.081 INFO  OrderSaga Last step CompleteOrder received with OrderId e6d93e5c-5912-4165-ad2b-6d5acb79b5d0
+2019-04-18 12:17:37.134 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:17:37.186 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-18 12:22:19.850 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevSaga\JasDev.Saga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:22:20.201 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:22:20.305 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 12:22:20.602 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 12:22:33.621 INFO  OrderSaga StartOrder received with OrderId 7c8ba415-0c92-4cac-a367-115b59cf7d23
+2019-04-18 12:22:38.802 INFO  OrderSaga Process with OrderId 7c8ba415-0c92-4cac-a367-115b59cf7d23
+2019-04-18 12:22:43.872 INFO  OrderSaga Last step CompleteOrder received with OrderId 7c8ba415-0c92-4cac-a367-115b59cf7d23
+2019-04-18 12:22:47.227 INFO  OrderSaga StartOrder received with OrderId a5c4978b-3f15-47ef-8a2a-1c7b538d59e0
+2019-04-18 12:22:52.287 INFO  OrderSaga Process with OrderId a5c4978b-3f15-47ef-8a2a-1c7b538d59e0
+2019-04-18 12:22:57.342 INFO  OrderSaga Last step CompleteOrder received with OrderId a5c4978b-3f15-47ef-8a2a-1c7b538d59e0
+2019-04-18 12:22:59.635 INFO  OrderSaga StartOrder received with OrderId 8c0dc7a7-3ffe-40ae-8ae4-b40716c69381
+2019-04-18 12:23:04.693 INFO  OrderSaga Process with OrderId 8c0dc7a7-3ffe-40ae-8ae4-b40716c69381
+2019-04-18 12:23:16.803 INFO  OrderSaga Last step CompleteOrder received with OrderId 8c0dc7a7-3ffe-40ae-8ae4-b40716c69381
+2019-04-18 12:23:19.042 INFO  OrderSaga StartOrder received with OrderId fca973c7-d3fa-41e3-94f6-963b0ac95894
+2019-04-18 12:23:24.095 INFO  OrderSaga Process with OrderId fca973c7-d3fa-41e3-94f6-963b0ac95894
+2019-04-18 12:23:36.201 INFO  OrderSaga Last step CompleteOrder received with OrderId fca973c7-d3fa-41e3-94f6-963b0ac95894
+2019-04-18 12:23:37.882 INFO  OrderSaga StartOrder received with OrderId 3737719f-b834-41d6-a1e1-d3c932973487
+2019-04-18 12:23:42.946 INFO  OrderSaga Process with OrderId 3737719f-b834-41d6-a1e1-d3c932973487
+2019-04-18 12:24:02.104 INFO  OrderSaga Last step CompleteOrder received with OrderId 3737719f-b834-41d6-a1e1-d3c932973487
+2019-04-18 12:24:11.041 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:24:11.093 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-18 12:25:58.770 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevSaga\JasDev.Saga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:25:59.130 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:25:59.231 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 12:25:59.495 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 12:26:06.897 INFO  OrderSaga StartOrder received with OrderId fe025f3e-4aae-4160-a396-573fb7dc37b6
+2019-04-18 12:26:12.075 INFO  OrderSaga Process with OrderId fe025f3e-4aae-4160-a396-573fb7dc37b6
+2019-04-18 12:26:38.287 INFO  OrderSaga Tried 3 time fail to complete OrderId fe025f3e-4aae-4160-a396-573fb7dc37b6
+2019-04-18 12:26:39.358 INFO  OrderSaga CompleteOrder not received soon enough OrderId fe025f3e-4aae-4160-a396-573fb7dc37b6. Calling MarkAsComplete
+2019-04-18 12:37:21.790 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevSaga\JasDev.Saga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:37:22.169 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:37:22.282 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 12:37:22.590 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 12:37:27.412 INFO  OrderSaga StartOrder received with OrderId 71be780d-de7f-4b74-901c-8a73af711c2a
+2019-04-18 12:37:32.585 INFO  OrderSaga Process with OrderId 71be780d-de7f-4b74-901c-8a73af711c2a
+2019-04-18 12:37:37.647 INFO  OrderSaga Last step CompleteOrder received with OrderId 71be780d-de7f-4b74-901c-8a73af711c2a
+2019-04-18 12:37:54.842 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:37:54.897 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-18 12:49:44.654 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:49:45.082 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:49:45.190 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'error' for address 'error'.
+2019-04-18 12:49:45.484 INFO  NServiceBus.Transports.SQS.QueueCreator Creating SQS Queue with name 'JasdevSqSimple' for address 'JasdevSqSimple'.
+2019-04-18 12:49:49.789 INFO  OrderSaga StartOrder received with OrderId cabbfd7d-555f-4c98-81ed-7aa9bd584190
+2019-04-18 12:49:54.962 INFO  OrderSaga Process with OrderId cabbfd7d-555f-4c98-81ed-7aa9bd584190
+2019-04-18 12:50:00.023 INFO  OrderSaga Last step CompleteOrder received with OrderId cabbfd7d-555f-4c98-81ed-7aa9bd584190
+2019-04-18 12:50:09.909 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:50:09.964 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.

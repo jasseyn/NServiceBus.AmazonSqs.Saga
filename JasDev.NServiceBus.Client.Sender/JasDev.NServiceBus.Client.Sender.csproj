@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NServiceBus" Version="7.1.7" />
+    <PackageReference Include="NServiceBus.AmazonSQS" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JasDevNServiceBus.Sqs.Message\JasDevNServiceBus.Sqs.Message.csproj" />
+  </ItemGroup>
+
+</Project>

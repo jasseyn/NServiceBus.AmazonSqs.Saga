@@ -1,0 +1,1227 @@
+﻿2019-04-15 17:02:51.895 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:02:52.221 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:02:53.805 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: b814909b-3dc4-45d3-af2e-aa2f0054492e
+2019-04-15 17:02:53.931 INFO  OrderSaga StartOrder received with OrderId 66927217-7e91-4a0d-9dbd-8c0b80b91680
+2019-04-15 17:02:54.076 INFO  OrderSaga Process with OrderId c12f1f90-f95b-4726-91ad-a8c8f9a620df
+2019-04-15 17:02:54.091 INFO  OrderSaga CompleteOrder received with OrderId 70a29602-bc91-4ee0-b695-782374b988cd
+2019-04-15 17:02:54.105 INFO  OrderSaga CompleteOrder received with OrderId c12f1f90-f95b-4726-91ad-a8c8f9a620df
+2019-04-15 17:02:54.116 INFO  OrderSaga Process with OrderId 66927217-7e91-4a0d-9dbd-8c0b80b91680
+2019-04-15 17:02:54.130 INFO  OrderSaga CompleteOrder received with OrderId 66927217-7e91-4a0d-9dbd-8c0b80b91680
+2019-04-15 17:06:34.402 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:06:34.713 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:32:22.329 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:32:22.650 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:32:38.060 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d13e2596-ba4b-4f05-abda-aa310008f671
+2019-04-15 17:32:38.179 INFO  OrderSaga StartOrder received with OrderId bd604010-6814-41bb-9b40-3c6b60f2c0c9
+2019-04-15 17:32:38.310 INFO  OrderSaga Process with OrderId bd604010-6814-41bb-9b40-3c6b60f2c0c9
+2019-04-15 17:32:38.338 INFO  OrderSaga CompleteOrder received with OrderId bd604010-6814-41bb-9b40-3c6b60f2c0c9
+2019-04-15 17:32:44.578 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 62cd9f8a-9bee-40f5-89c8-aa310008fe35
+2019-04-15 17:32:44.589 INFO  OrderSaga StartOrder received with OrderId 064e27c2-bceb-4e15-85fa-8e9feed1f9a4
+2019-04-15 17:32:44.609 INFO  OrderSaga Process with OrderId 064e27c2-bceb-4e15-85fa-8e9feed1f9a4
+2019-04-15 17:32:44.622 INFO  OrderSaga CompleteOrder received with OrderId 064e27c2-bceb-4e15-85fa-8e9feed1f9a4
+2019-04-15 17:32:46.602 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8169d264-b1a7-400d-b6b0-aa3100090098
+2019-04-15 17:32:46.608 INFO  OrderSaga StartOrder received with OrderId ee12003e-06ac-4e8f-be03-9060f5e94892
+2019-04-15 17:32:46.624 INFO  OrderSaga Process with OrderId ee12003e-06ac-4e8f-be03-9060f5e94892
+2019-04-15 17:32:46.637 INFO  OrderSaga CompleteOrder received with OrderId ee12003e-06ac-4e8f-be03-9060f5e94892
+2019-04-15 17:32:51.937 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e748c2cb-22a8-4764-979b-aa31000906d6
+2019-04-15 17:32:51.946 INFO  OrderSaga StartOrder received with OrderId a3243b29-0e62-48e9-8070-0dd2bbdd8235
+2019-04-15 17:32:51.971 INFO  OrderSaga Process with OrderId a3243b29-0e62-48e9-8070-0dd2bbdd8235
+2019-04-15 17:32:51.986 INFO  OrderSaga CompleteOrder received with OrderId a3243b29-0e62-48e9-8070-0dd2bbdd8235
+2019-04-15 17:32:54.128 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9c19771c-6e3b-4e1a-b300-aa3100090969
+2019-04-15 17:32:54.141 INFO  OrderSaga StartOrder received with OrderId cee2c516-5219-46a9-b59a-c7fcfe119c68
+2019-04-15 17:32:54.165 INFO  OrderSaga Process with OrderId cee2c516-5219-46a9-b59a-c7fcfe119c68
+2019-04-15 17:32:54.181 INFO  OrderSaga CompleteOrder received with OrderId cee2c516-5219-46a9-b59a-c7fcfe119c68
+2019-04-15 17:32:54.641 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 74b0836d-bc9c-4088-a295-aa3100090a02
+2019-04-15 17:32:54.652 INFO  OrderSaga StartOrder received with OrderId 54e1473b-67e4-4bf5-869e-40f3a9d19516
+2019-04-15 17:32:54.670 INFO  OrderSaga Process with OrderId 54e1473b-67e4-4bf5-869e-40f3a9d19516
+2019-04-15 17:32:54.685 INFO  OrderSaga CompleteOrder received with OrderId 54e1473b-67e4-4bf5-869e-40f3a9d19516
+2019-04-15 17:32:54.976 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d974d1f5-8ac9-4829-89a7-aa3100090a69
+2019-04-15 17:32:54.986 INFO  OrderSaga StartOrder received with OrderId aa1962c1-006b-43f3-ada4-7d91defff8a7
+2019-04-15 17:32:55.000 INFO  OrderSaga Process with OrderId aa1962c1-006b-43f3-ada4-7d91defff8a7
+2019-04-15 17:32:55.136 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 13c2ce40-a9f7-40a1-bf64-aa3100090a9b
+2019-04-15 17:32:55.141 INFO  OrderSaga StartOrder received with OrderId 49aa983f-f6df-4eb2-a7a5-31e960452557
+2019-04-15 17:32:55.156 INFO  OrderSaga Process with OrderId 49aa983f-f6df-4eb2-a7a5-31e960452557
+2019-04-15 17:32:55.167 INFO  OrderSaga CompleteOrder received with OrderId 49aa983f-f6df-4eb2-a7a5-31e960452557
+2019-04-15 17:32:55.497 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 67775684-e48d-44a2-95a1-aa3100090b05
+2019-04-15 17:32:55.504 INFO  OrderSaga StartOrder received with OrderId c8b9bb47-dec8-4a1a-8dcb-2dc1d1fc7d47
+2019-04-15 17:32:55.515 INFO  OrderSaga Process with OrderId c8b9bb47-dec8-4a1a-8dcb-2dc1d1fc7d47
+2019-04-15 17:32:55.529 INFO  OrderSaga CompleteOrder received with OrderId c8b9bb47-dec8-4a1a-8dcb-2dc1d1fc7d47
+2019-04-15 17:32:55.698 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7e0b2de1-72db-44ae-b465-aa3100090b42
+2019-04-15 17:32:55.709 INFO  OrderSaga StartOrder received with OrderId 597f45a5-3818-4417-a11b-b589e51a0e1e
+2019-04-15 17:32:55.724 INFO  OrderSaga Process with OrderId 597f45a5-3818-4417-a11b-b589e51a0e1e
+2019-04-15 17:32:55.739 INFO  OrderSaga CompleteOrder received with OrderId 597f45a5-3818-4417-a11b-b589e51a0e1e
+2019-04-15 17:32:56.092 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0873c0af-f99f-477d-99f2-aa3100090bb4
+2019-04-15 17:32:56.106 INFO  OrderSaga StartOrder received with OrderId 340d1e9e-1457-4ca2-91e5-c4161ef1d025
+2019-04-15 17:32:56.126 INFO  OrderSaga Process with OrderId 340d1e9e-1457-4ca2-91e5-c4161ef1d025
+2019-04-15 17:32:56.192 INFO  OrderSaga CompleteOrder received with OrderId 340d1e9e-1457-4ca2-91e5-c4161ef1d025
+2019-04-15 17:32:56.258 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2b3d7f87-2e48-4dfc-bf48-aa3100090beb
+2019-04-15 17:32:56.263 INFO  OrderSaga StartOrder received with OrderId 3c31e962-0fd7-4e21-839c-28890eb0cf8a
+2019-04-15 17:32:56.274 INFO  OrderSaga Process with OrderId 3c31e962-0fd7-4e21-839c-28890eb0cf8a
+2019-04-15 17:32:56.288 INFO  OrderSaga CompleteOrder received with OrderId 3c31e962-0fd7-4e21-839c-28890eb0cf8a
+2019-04-15 17:32:56.833 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1b248011-ab9b-405a-84f1-aa3100090c96
+2019-04-15 17:32:56.843 INFO  OrderSaga StartOrder received with OrderId 49018409-43c5-4da7-9312-23ff2f806595
+2019-04-15 17:32:56.857 INFO  OrderSaga Process with OrderId 49018409-43c5-4da7-9312-23ff2f806595
+2019-04-15 17:32:56.915 INFO  OrderSaga CompleteOrder received with OrderId 49018409-43c5-4da7-9312-23ff2f806595
+2019-04-15 17:32:57.036 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ca11fe5f-f3d5-48be-a3d8-aa3100090cd4
+2019-04-15 17:32:57.043 INFO  OrderSaga StartOrder received with OrderId 7553bd6e-c825-4d2b-96a6-92a0eeb14ce9
+2019-04-15 17:32:57.088 INFO  OrderSaga Process with OrderId 7553bd6e-c825-4d2b-96a6-92a0eeb14ce9
+2019-04-15 17:32:57.123 INFO  OrderSaga CompleteOrder received with OrderId 7553bd6e-c825-4d2b-96a6-92a0eeb14ce9
+2019-04-15 17:32:57.843 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 57c785a4-66ed-4f56-a9a6-aa3100090dc1
+2019-04-15 17:32:57.856 INFO  OrderSaga StartOrder received with OrderId 80c6f3a8-23b9-4f7f-b1fd-ab11af965072
+2019-04-15 17:32:57.877 INFO  OrderSaga Process with OrderId 80c6f3a8-23b9-4f7f-b1fd-ab11af965072
+2019-04-15 17:32:57.892 INFO  OrderSaga CompleteOrder received with OrderId 80c6f3a8-23b9-4f7f-b1fd-ab11af965072
+2019-04-15 17:32:58.086 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ba69f4e1-1b6e-4078-9445-aa3100090e0c
+2019-04-15 17:32:58.094 INFO  OrderSaga StartOrder received with OrderId b0c1330f-eed8-40da-b575-f89bb1715556
+2019-04-15 17:32:58.111 INFO  OrderSaga Process with OrderId b0c1330f-eed8-40da-b575-f89bb1715556
+2019-04-15 17:32:58.146 INFO  OrderSaga CompleteOrder received with OrderId b0c1330f-eed8-40da-b575-f89bb1715556
+2019-04-15 17:32:58.305 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a6a9ff24-bff9-484c-bd74-aa3100090e50
+2019-04-15 17:32:58.313 INFO  OrderSaga StartOrder received with OrderId 99d8fe08-5e58-4c58-af5b-a944b16892f0
+2019-04-15 17:32:58.326 INFO  OrderSaga Process with OrderId 99d8fe08-5e58-4c58-af5b-a944b16892f0
+2019-04-15 17:33:02.028 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a648d1d6-254a-42b9-93eb-aa31000912ab
+2019-04-15 17:33:02.046 INFO  OrderSaga StartOrder received with OrderId e6f16bfe-aebd-4d6b-aa28-43d76606e3e5
+2019-04-15 17:33:02.069 INFO  OrderSaga Process with OrderId e6f16bfe-aebd-4d6b-aa28-43d76606e3e5
+2019-04-15 17:33:02.133 INFO  OrderSaga CompleteOrder received with OrderId e6f16bfe-aebd-4d6b-aa28-43d76606e3e5
+2019-04-15 17:33:02.547 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 91297889-84f8-4f2c-9d46-aa3100091347
+2019-04-15 17:33:02.561 INFO  OrderSaga StartOrder received with OrderId 2f26caa6-a5de-4f0a-92d4-6fe03f90aef2
+2019-04-15 17:33:02.580 INFO  OrderSaga Process with OrderId 2f26caa6-a5de-4f0a-92d4-6fe03f90aef2
+2019-04-15 17:33:02.593 INFO  OrderSaga CompleteOrder received with OrderId 2f26caa6-a5de-4f0a-92d4-6fe03f90aef2
+2019-04-15 17:33:02.984 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 728c96ff-3836-4084-84c3-aa31000913c6
+2019-04-15 17:33:02.996 INFO  OrderSaga StartOrder received with OrderId e816dd3d-5ebf-4441-9345-09edbfca527c
+2019-04-15 17:33:03.023 INFO  OrderSaga Process with OrderId e816dd3d-5ebf-4441-9345-09edbfca527c
+2019-04-15 17:33:03.091 INFO  OrderSaga CompleteOrder received with OrderId e816dd3d-5ebf-4441-9345-09edbfca527c
+2019-04-15 17:33:03.573 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 131380e6-ae10-48ea-b6a3-aa3100091479
+2019-04-15 17:33:03.586 INFO  OrderSaga StartOrder received with OrderId b04f9727-da0b-4e1a-9cce-45dece65eda2
+2019-04-15 17:33:03.608 INFO  OrderSaga Process with OrderId b04f9727-da0b-4e1a-9cce-45dece65eda2
+2019-04-15 17:33:03.633 INFO  OrderSaga CompleteOrder received with OrderId b04f9727-da0b-4e1a-9cce-45dece65eda2
+2019-04-15 17:33:04.026 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0a526b74-a7d4-4fa9-99bb-aa3100091501
+2019-04-15 17:33:04.037 INFO  OrderSaga StartOrder received with OrderId 955d2515-1f2d-4500-8584-4de862d185cf
+2019-04-15 17:33:04.055 INFO  OrderSaga Process with OrderId 955d2515-1f2d-4500-8584-4de862d185cf
+2019-04-15 17:33:04.069 INFO  OrderSaga CompleteOrder received with OrderId 955d2515-1f2d-4500-8584-4de862d185cf
+2019-04-15 17:33:04.425 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ac6a8eab-1049-4d7f-9703-aa3100091577
+2019-04-15 17:33:04.443 INFO  OrderSaga StartOrder received with OrderId 179f2178-70b9-46ac-8748-21efa234d004
+2019-04-15 17:33:04.464 INFO  OrderSaga Process with OrderId 179f2178-70b9-46ac-8748-21efa234d004
+2019-04-15 17:33:04.488 INFO  OrderSaga CompleteOrder received with OrderId 179f2178-70b9-46ac-8748-21efa234d004
+2019-04-15 17:33:04.843 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 96485382-c628-4a5f-bc1d-aa31000915f4
+2019-04-15 17:33:04.855 INFO  OrderSaga StartOrder received with OrderId 9b746786-6d80-4710-bb35-0882e7c41ad5
+2019-04-15 17:33:04.881 INFO  OrderSaga Process with OrderId 9b746786-6d80-4710-bb35-0882e7c41ad5
+2019-04-15 17:33:04.907 INFO  OrderSaga CompleteOrder received with OrderId 9b746786-6d80-4710-bb35-0882e7c41ad5
+2019-04-15 17:33:05.229 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 71384925-8f6e-449d-919b-aa310009166a
+2019-04-15 17:33:05.235 INFO  OrderSaga StartOrder received with OrderId eacd2bc4-266d-4a62-a8c7-1d1145613ca3
+2019-04-15 17:33:05.248 INFO  OrderSaga Process with OrderId eacd2bc4-266d-4a62-a8c7-1d1145613ca3
+2019-04-15 17:33:05.260 INFO  OrderSaga CompleteOrder received with OrderId eacd2bc4-266d-4a62-a8c7-1d1145613ca3
+2019-04-15 17:33:05.682 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0fa69799-55f1-42c2-8414-aa31000916f2
+2019-04-15 17:33:05.693 INFO  OrderSaga StartOrder received with OrderId 6c9876d7-656c-47a3-a2a5-ebd866b170fc
+2019-04-15 17:33:05.709 INFO  OrderSaga Process with OrderId 6c9876d7-656c-47a3-a2a5-ebd866b170fc
+2019-04-15 17:33:05.723 INFO  OrderSaga CompleteOrder received with OrderId 6c9876d7-656c-47a3-a2a5-ebd866b170fc
+2019-04-15 17:33:06.123 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d8097cc8-58b7-458b-b50b-aa3100091775
+2019-04-15 17:33:06.131 INFO  OrderSaga StartOrder received with OrderId 8f44ad3c-b109-4774-8bf6-a6234e72c0cc
+2019-04-15 17:33:06.147 INFO  OrderSaga Process with OrderId 8f44ad3c-b109-4774-8bf6-a6234e72c0cc
+2019-04-15 17:33:06.160 INFO  OrderSaga CompleteOrder received with OrderId aa1962c1-006b-43f3-ada4-7d91defff8a7
+2019-04-15 17:33:06.294 INFO  OrderSaga CompleteOrder received with OrderId 8f44ad3c-b109-4774-8bf6-a6234e72c0cc
+2019-04-15 17:33:06.349 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f3d019dc-a87a-4e22-ab2b-aa31000917bb
+2019-04-15 17:33:06.365 INFO  OrderSaga StartOrder received with OrderId f27d0117-b974-4d9c-81f3-e98d146943f7
+2019-04-15 17:33:06.395 INFO  OrderSaga Process with OrderId f27d0117-b974-4d9c-81f3-e98d146943f7
+2019-04-15 17:33:06.414 INFO  OrderSaga CompleteOrder received with OrderId f27d0117-b974-4d9c-81f3-e98d146943f7
+2019-04-15 17:33:06.604 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 992251db-f809-49c5-ad70-aa3100091806
+2019-04-15 17:33:06.614 INFO  OrderSaga StartOrder received with OrderId 46bd4c14-acc9-40e7-b421-07a2dd1de610
+2019-04-15 17:33:06.633 INFO  OrderSaga Process with OrderId 46bd4c14-acc9-40e7-b421-07a2dd1de610
+2019-04-15 17:33:06.647 INFO  OrderSaga CompleteOrder received with OrderId 46bd4c14-acc9-40e7-b421-07a2dd1de610
+2019-04-15 17:33:07.024 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 49a04b0e-d254-4459-8233-aa3100091884
+2019-04-15 17:33:07.035 INFO  OrderSaga StartOrder received with OrderId d5770171-c3de-41a5-9c85-7d47860a51fa
+2019-04-15 17:33:07.054 INFO  OrderSaga Process with OrderId d5770171-c3de-41a5-9c85-7d47860a51fa
+2019-04-15 17:33:07.068 INFO  OrderSaga CompleteOrder received with OrderId d5770171-c3de-41a5-9c85-7d47860a51fa
+2019-04-15 17:33:07.387 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: dd785c77-8e2d-4b48-8e13-aa31000918ee
+2019-04-15 17:33:07.399 INFO  OrderSaga StartOrder received with OrderId 31821a4e-ef3b-4d56-be52-fca1ebea24e1
+2019-04-15 17:33:07.424 INFO  OrderSaga Process with OrderId 31821a4e-ef3b-4d56-be52-fca1ebea24e1
+2019-04-15 17:33:07.449 INFO  OrderSaga CompleteOrder received with OrderId 31821a4e-ef3b-4d56-be52-fca1ebea24e1
+2019-04-15 17:33:07.749 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4f812933-ad56-4e31-9172-aa3100091960
+2019-04-15 17:33:07.761 INFO  OrderSaga StartOrder received with OrderId e2628853-f601-4646-bcbb-7e240e2c0dda
+2019-04-15 17:33:07.782 INFO  OrderSaga Process with OrderId e2628853-f601-4646-bcbb-7e240e2c0dda
+2019-04-15 17:33:07.807 INFO  OrderSaga CompleteOrder received with OrderId e2628853-f601-4646-bcbb-7e240e2c0dda
+2019-04-15 17:33:09.110 INFO  OrderSaga CompleteOrder received with OrderId 99d8fe08-5e58-4c58-af5b-a944b16892f0
+2019-04-15 17:33:09.211 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c96e1599-60a5-42ba-8cef-aa3100091b12
+2019-04-15 17:33:09.219 INFO  OrderSaga StartOrder received with OrderId c539d756-e867-46a8-9ad2-9717b6684aed
+2019-04-15 17:33:09.236 INFO  OrderSaga Process with OrderId c539d756-e867-46a8-9ad2-9717b6684aed
+2019-04-15 17:33:09.249 INFO  OrderSaga CompleteOrder received with OrderId c539d756-e867-46a8-9ad2-9717b6684aed
+2019-04-15 17:33:10.406 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 05a0f560-71ef-4b0c-af13-aa3100091c77
+2019-04-15 17:33:10.426 INFO  OrderSaga StartOrder received with OrderId 74c384cb-b123-4cc2-a92f-04c6313a1828
+2019-04-15 17:33:10.453 INFO  OrderSaga Process with OrderId 74c384cb-b123-4cc2-a92f-04c6313a1828
+2019-04-15 17:33:10.512 INFO  OrderSaga CompleteOrder received with OrderId 74c384cb-b123-4cc2-a92f-04c6313a1828
+2019-04-15 17:33:10.779 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a22bfa69-de0b-4323-bb7d-aa3100091ce8
+2019-04-15 17:33:10.789 INFO  OrderSaga StartOrder received with OrderId d97974ac-a039-4a67-b2c4-55c3a69b786a
+2019-04-15 17:33:10.806 INFO  OrderSaga Process with OrderId d97974ac-a039-4a67-b2c4-55c3a69b786a
+2019-04-15 17:33:10.821 INFO  OrderSaga CompleteOrder received with OrderId d97974ac-a039-4a67-b2c4-55c3a69b786a
+2019-04-15 17:33:10.980 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: fac01c6c-5dcd-487f-9038-aa3100091d28
+2019-04-15 17:33:10.990 INFO  OrderSaga StartOrder received with OrderId 08d67bdb-228f-4df0-b93a-046406cf8f1e
+2019-04-15 17:33:11.027 INFO  OrderSaga Process with OrderId 08d67bdb-228f-4df0-b93a-046406cf8f1e
+2019-04-15 17:33:12.390 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e60220fd-6496-4524-9b52-aa3100091ed0
+2019-04-15 17:33:12.402 INFO  OrderSaga StartOrder received with OrderId b2dc3627-840a-46f0-8de7-b81d9d556974
+2019-04-15 17:33:12.462 INFO  OrderSaga Process with OrderId b2dc3627-840a-46f0-8de7-b81d9d556974
+2019-04-15 17:33:12.474 INFO  OrderSaga CompleteOrder received with OrderId b2dc3627-840a-46f0-8de7-b81d9d556974
+2019-04-15 17:33:12.785 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 62a0d650-9c8f-4f6b-ad16-aa3100091f48
+2019-04-15 17:33:12.798 INFO  OrderSaga StartOrder received with OrderId 274a168f-4b46-42f6-8ce8-8fe76b67c8e4
+2019-04-15 17:33:12.815 INFO  OrderSaga Process with OrderId 274a168f-4b46-42f6-8ce8-8fe76b67c8e4
+2019-04-15 17:33:12.849 INFO  OrderSaga CompleteOrder received with OrderId 274a168f-4b46-42f6-8ce8-8fe76b67c8e4
+2019-04-15 17:33:12.999 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7b3f400e-2709-469e-8551-aa3100091f86
+2019-04-15 17:33:13.010 INFO  OrderSaga StartOrder received with OrderId e0c8f303-7eec-4450-9382-ff61b79d5b07
+2019-04-15 17:33:13.027 INFO  OrderSaga Process with OrderId e0c8f303-7eec-4450-9382-ff61b79d5b07
+2019-04-15 17:33:13.040 INFO  OrderSaga CompleteOrder received with OrderId e0c8f303-7eec-4450-9382-ff61b79d5b07
+2019-04-15 17:44:36.770 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:44:37.082 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:44:48.555 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 78c546c1-35cf-439e-8d60-aa31000c4e79
+2019-04-15 17:44:48.668 INFO  OrderSaga StartOrder received with OrderId 05c90c05-fc50-4826-b5b1-67194a39d9ae
+2019-04-15 17:44:48.789 INFO  OrderSaga Process with OrderId 05c90c05-fc50-4826-b5b1-67194a39d9ae
+2019-04-15 17:44:48.948 INFO  OrderSaga CompleteOrder received with OrderId 05c90c05-fc50-4826-b5b1-67194a39d9ae
+2019-04-15 17:45:02.983 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8fe331f7-07ba-4d3d-b8f2-aa31000c5f86
+2019-04-15 17:45:02.989 INFO  OrderSaga StartOrder received with OrderId 4c05591d-96ab-4f34-a6c4-e5988c2f16a5
+2019-04-15 17:45:03.004 INFO  OrderSaga Process with OrderId 4c05591d-96ab-4f34-a6c4-e5988c2f16a5
+2019-04-15 17:45:03.028 INFO  OrderSaga CompleteOrder received with OrderId 4c05591d-96ab-4f34-a6c4-e5988c2f16a5
+2019-04-15 17:45:04.509 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 70a81aa4-a8b9-41b9-a14e-aa31000c6153
+2019-04-15 17:45:04.515 INFO  OrderSaga StartOrder received with OrderId 6e531849-c1fc-49a1-9e99-8aac837f1898
+2019-04-15 17:45:04.531 INFO  OrderSaga Process with OrderId 6e531849-c1fc-49a1-9e99-8aac837f1898
+2019-04-15 17:45:04.553 INFO  OrderSaga CompleteOrder received with OrderId 6e531849-c1fc-49a1-9e99-8aac837f1898
+2019-04-15 17:45:06.062 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c9197b17-dc54-4cf6-9c42-aa31000c6324
+2019-04-15 17:45:06.068 INFO  OrderSaga StartOrder received with OrderId 5dee3f02-1d71-4db7-8c93-63b6d75b4cc5
+2019-04-15 17:45:06.091 INFO  OrderSaga Process with OrderId 5dee3f02-1d71-4db7-8c93-63b6d75b4cc5
+2019-04-15 17:45:06.106 INFO  OrderSaga CompleteOrder received with OrderId 5dee3f02-1d71-4db7-8c93-63b6d75b4cc5
+2019-04-15 17:45:07.118 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 06c7f0cb-5af5-4fcb-ac1d-aa31000c6463
+2019-04-15 17:45:07.127 INFO  OrderSaga StartOrder received with OrderId 118f3bb5-efb6-4f0d-bb95-21a59ece5656
+2019-04-15 17:45:07.144 INFO  OrderSaga Process with OrderId 118f3bb5-efb6-4f0d-bb95-21a59ece5656
+2019-04-15 17:45:07.167 INFO  OrderSaga CompleteOrder received with OrderId 118f3bb5-efb6-4f0d-bb95-21a59ece5656
+2019-04-15 17:45:07.898 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 6c1788b0-4901-4cc1-b29e-aa31000c654b
+2019-04-15 17:45:07.908 INFO  OrderSaga StartOrder received with OrderId 7fbb2bb3-ba55-4221-a53d-3a2d15248d6b
+2019-04-15 17:45:07.926 INFO  OrderSaga Process with OrderId 7fbb2bb3-ba55-4221-a53d-3a2d15248d6b
+2019-04-15 17:45:07.973 INFO  OrderSaga CompleteOrder received with OrderId 7fbb2bb3-ba55-4221-a53d-3a2d15248d6b
+2019-04-15 17:48:01.390 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:48:01.700 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:48:15.045 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: aaf5a471-b7a3-45e3-87e1-aa31000d4079
+2019-04-15 17:48:15.161 INFO  OrderSaga StartOrder received with OrderId 7603805d-e7ba-4dca-a66f-2a39530ea887
+2019-04-15 17:48:15.359 INFO  OrderSaga Process with OrderId 7603805d-e7ba-4dca-a66f-2a39530ea887
+2019-04-15 17:48:15.387 INFO  OrderSaga CompleteOrder received with OrderId 7603805d-e7ba-4dca-a66f-2a39530ea887
+2019-04-15 17:59:21.417 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 17:59:21.727 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 17:59:22.118 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: dbf1ba4e-efc7-4212-964b-aa310010401b
+2019-04-15 17:59:22.239 INFO  OrderSaga StartOrder received with OrderId 379755d8-03be-4876-a578-c198e09a58dd
+2019-04-15 17:59:22.335 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 15e01a20-0f97-45ef-b054-aa3100104084
+2019-04-15 17:59:22.338 INFO  OrderSaga StartOrder received with OrderId 5ee0c521-0e66-42fe-9d43-b04aa2f31171
+2019-04-15 17:59:22.348 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1e31ced3-bef3-41f1-8354-aa3100103e13
+2019-04-15 17:59:22.350 INFO  OrderSaga StartOrder received with OrderId a7510f45-a482-485e-a775-3cabff5c8c29
+2019-04-15 17:59:22.358 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: b975fa64-14c4-4f7c-a12d-aa3100104051
+2019-04-15 17:59:22.361 INFO  OrderSaga StartOrder received with OrderId 3201441c-ec33-45c7-b109-d64c122c42e8
+2019-04-15 17:59:22.370 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1ddc5258-6bd1-4ee7-8479-aa3100104149
+2019-04-15 17:59:22.373 INFO  OrderSaga StartOrder received with OrderId 3889b9e9-54fe-4d92-bdd8-3dba1a284d9d
+2019-04-15 17:59:22.381 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2f1c5bc0-0110-42e0-966b-aa3100103acb
+2019-04-15 17:59:22.384 INFO  OrderSaga StartOrder received with OrderId bc04e9f8-791f-4147-9a16-2b27bb833864
+2019-04-15 17:59:22.393 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 64971b5b-819d-48e2-baeb-aa310010411b
+2019-04-15 17:59:22.397 INFO  OrderSaga StartOrder received with OrderId 25636a65-5a11-475e-b741-ca53eeecfa3e
+2019-04-15 17:59:22.407 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 36d810a7-3ee3-42de-9da7-aa31001037f6
+2019-04-15 17:59:22.411 INFO  OrderSaga StartOrder received with OrderId 62b94283-c3fd-42b3-8ce6-e30a13976595
+2019-04-15 17:59:22.420 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d416b11d-1fb6-4bfc-b142-aa3100103f34
+2019-04-15 17:59:22.424 INFO  OrderSaga StartOrder received with OrderId 394434ac-d948-4fb6-928a-495d4c81dad3
+2019-04-15 17:59:22.436 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1c94850b-27cc-4330-8897-aa3100103fe3
+2019-04-15 17:59:22.441 INFO  OrderSaga StartOrder received with OrderId 16a1de8a-d59a-442e-9a0a-19374b2ad90f
+2019-04-15 17:59:22.449 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d4b2d3ad-ca84-43dc-8551-aa31001040eb
+2019-04-15 17:59:22.453 INFO  OrderSaga StartOrder received with OrderId 0e737e7f-183a-4af4-8e47-7ed02ae7531e
+2019-04-15 17:59:22.462 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7e3336cd-ca6e-4ce2-a7ed-aa3100103e8b
+2019-04-15 17:59:22.465 INFO  OrderSaga StartOrder received with OrderId 6af79eb5-1a0d-439a-b2cd-d5b7fc8609d6
+2019-04-15 17:59:22.474 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: dfab4455-5fb8-4175-a446-aa31001040b9
+2019-04-15 17:59:22.477 INFO  OrderSaga StartOrder received with OrderId eb1c1dba-dfc8-4a69-9b7c-15a961b53d46
+2019-04-15 17:59:22.486 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 41e754a0-87b6-4621-94cc-aa3100103ce3
+2019-04-15 17:59:22.489 INFO  OrderSaga StartOrder received with OrderId e02f2f54-0b0e-42ee-b844-cbf5ea18e820
+2019-04-15 17:59:22.498 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: db5f6a4f-36e2-4ff4-bc1b-aa3100103d9d
+2019-04-15 17:59:22.502 INFO  OrderSaga StartOrder received with OrderId 76bb4aa2-9a2f-41d2-a279-5e03f47d2e5c
+2019-04-15 17:59:22.512 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cd1a38d7-dcf3-4d8c-ad3b-aa3100103f9b
+2019-04-15 17:59:22.515 INFO  OrderSaga StartOrder received with OrderId 64108c5e-0df6-4a2e-8017-e4ef402c87ae
+2019-04-15 17:59:22.525 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d175433d-5ab7-4c53-a7cd-aa3100104179
+2019-04-15 17:59:22.529 INFO  OrderSaga StartOrder received with OrderId 19a86843-7435-4301-abae-8a59815053cc
+2019-04-15 17:59:22.563 INFO  OrderSaga Process with OrderId 25636a65-5a11-475e-b741-ca53eeecfa3e
+2019-04-15 17:59:22.578 INFO  OrderSaga Process with OrderId 5ee0c521-0e66-42fe-9d43-b04aa2f31171
+2019-04-15 17:59:22.588 INFO  OrderSaga Process with OrderId 16a1de8a-d59a-442e-9a0a-19374b2ad90f
+2019-04-15 17:59:22.597 INFO  OrderSaga Process with OrderId 6af79eb5-1a0d-439a-b2cd-d5b7fc8609d6
+2019-04-15 17:59:22.608 INFO  OrderSaga Process with OrderId 3201441c-ec33-45c7-b109-d64c122c42e8
+2019-04-15 17:59:22.617 INFO  OrderSaga Process with OrderId 3889b9e9-54fe-4d92-bdd8-3dba1a284d9d
+2019-04-15 17:59:22.627 INFO  OrderSaga Process with OrderId 379755d8-03be-4876-a578-c198e09a58dd
+2019-04-15 17:59:22.636 INFO  OrderSaga Process with OrderId 64108c5e-0df6-4a2e-8017-e4ef402c87ae
+2019-04-15 17:59:22.647 INFO  OrderSaga Process with OrderId eb1c1dba-dfc8-4a69-9b7c-15a961b53d46
+2019-04-15 17:59:22.657 INFO  OrderSaga Process with OrderId 394434ac-d948-4fb6-928a-495d4c81dad3
+2019-04-15 17:59:22.670 INFO  OrderSaga Process with OrderId bc04e9f8-791f-4147-9a16-2b27bb833864
+2019-04-15 17:59:22.679 INFO  OrderSaga Process with OrderId 76bb4aa2-9a2f-41d2-a279-5e03f47d2e5c
+2019-04-15 17:59:22.689 INFO  OrderSaga Process with OrderId 19a86843-7435-4301-abae-8a59815053cc
+2019-04-15 17:59:22.699 INFO  OrderSaga Process with OrderId a7510f45-a482-485e-a775-3cabff5c8c29
+2019-04-15 17:59:22.709 INFO  OrderSaga Process with OrderId e02f2f54-0b0e-42ee-b844-cbf5ea18e820
+2019-04-15 17:59:22.719 INFO  OrderSaga Process with OrderId 62b94283-c3fd-42b3-8ce6-e30a13976595
+2019-04-15 17:59:22.730 INFO  OrderSaga Process with OrderId 0e737e7f-183a-4af4-8e47-7ed02ae7531e
+2019-04-15 17:59:22.741 INFO  OrderSaga CompleteOrder received with OrderId 62b94283-c3fd-42b3-8ce6-e30a13976595
+2019-04-15 17:59:22.750 INFO  OrderSaga CompleteOrder received with OrderId e02f2f54-0b0e-42ee-b844-cbf5ea18e820
+2019-04-15 17:59:22.759 INFO  OrderSaga CompleteOrder received with OrderId 6af79eb5-1a0d-439a-b2cd-d5b7fc8609d6
+2019-04-15 17:59:22.767 INFO  OrderSaga CompleteOrder received with OrderId 25636a65-5a11-475e-b741-ca53eeecfa3e
+2019-04-15 17:59:22.775 INFO  OrderSaga CompleteOrder received with OrderId 16a1de8a-d59a-442e-9a0a-19374b2ad90f
+2019-04-15 17:59:22.783 INFO  OrderSaga CompleteOrder received with OrderId 76bb4aa2-9a2f-41d2-a279-5e03f47d2e5c
+2019-04-15 17:59:22.792 INFO  OrderSaga CompleteOrder received with OrderId 19a86843-7435-4301-abae-8a59815053cc
+2019-04-15 17:59:22.800 INFO  OrderSaga CompleteOrder received with OrderId 64108c5e-0df6-4a2e-8017-e4ef402c87ae
+2019-04-15 17:59:22.809 INFO  OrderSaga CompleteOrder received with OrderId 394434ac-d948-4fb6-928a-495d4c81dad3
+2019-04-15 17:59:22.817 INFO  OrderSaga CompleteOrder received with OrderId 379755d8-03be-4876-a578-c198e09a58dd
+2019-04-15 17:59:22.824 INFO  OrderSaga CompleteOrder received with OrderId bc04e9f8-791f-4147-9a16-2b27bb833864
+2019-04-15 17:59:22.832 INFO  OrderSaga CompleteOrder received with OrderId 3201441c-ec33-45c7-b109-d64c122c42e8
+2019-04-15 17:59:22.841 INFO  OrderSaga CompleteOrder received with OrderId 5ee0c521-0e66-42fe-9d43-b04aa2f31171
+2019-04-15 17:59:22.849 INFO  OrderSaga CompleteOrder received with OrderId eb1c1dba-dfc8-4a69-9b7c-15a961b53d46
+2019-04-15 17:59:22.857 INFO  OrderSaga CompleteOrder received with OrderId 3889b9e9-54fe-4d92-bdd8-3dba1a284d9d
+2019-04-15 17:59:22.865 INFO  OrderSaga CompleteOrder received with OrderId a7510f45-a482-485e-a775-3cabff5c8c29
+2019-04-15 17:59:22.874 INFO  OrderSaga CompleteOrder received with OrderId 0e737e7f-183a-4af4-8e47-7ed02ae7531e
+2019-04-15 17:59:28.996 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: b5b12c32-f266-452d-b836-aa3100105664
+2019-04-15 17:59:29.009 INFO  OrderSaga StartOrder received with OrderId 4ed572b2-5da2-4b5c-b3a5-9f4fe1f09a36
+2019-04-15 17:59:29.028 INFO  OrderSaga Process with OrderId 4ed572b2-5da2-4b5c-b3a5-9f4fe1f09a36
+2019-04-15 17:59:29.042 INFO  OrderSaga CompleteOrder received with OrderId 4ed572b2-5da2-4b5c-b3a5-9f4fe1f09a36
+2019-04-15 17:59:30.009 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5fd6bd89-65c9-47ac-a310-aa3100105794
+2019-04-15 17:59:30.019 INFO  OrderSaga StartOrder received with OrderId bc71b6f2-4b5f-4a74-8883-1c521b6f320c
+2019-04-15 17:59:30.038 INFO  OrderSaga Process with OrderId bc71b6f2-4b5f-4a74-8883-1c521b6f320c
+2019-04-15 17:59:30.052 INFO  OrderSaga CompleteOrder received with OrderId bc71b6f2-4b5f-4a74-8883-1c521b6f320c
+2019-04-15 17:59:30.420 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7f8cbb3e-1718-4f67-b5f7-aa3100105811
+2019-04-15 17:59:30.430 INFO  OrderSaga StartOrder received with OrderId 2fcb83b0-4657-4abf-a753-f036ae39d9d8
+2019-04-15 17:59:30.453 INFO  OrderSaga Process with OrderId 2fcb83b0-4657-4abf-a753-f036ae39d9d8
+2019-04-15 17:59:30.473 INFO  OrderSaga CompleteOrder received with OrderId 2fcb83b0-4657-4abf-a753-f036ae39d9d8
+2019-04-15 17:59:30.639 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f8dfd187-0072-4513-8c81-aa3100105851
+2019-04-15 17:59:30.649 INFO  OrderSaga StartOrder received with OrderId 85159316-eb23-41d6-adc4-82f17c246a27
+2019-04-15 17:59:30.667 INFO  OrderSaga Process with OrderId 85159316-eb23-41d6-adc4-82f17c246a27
+2019-04-15 17:59:30.682 INFO  OrderSaga CompleteOrder received with OrderId 85159316-eb23-41d6-adc4-82f17c246a27
+2019-04-15 17:59:30.825 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 119b3458-b9f6-4463-bdb0-aa3100105887
+2019-04-15 17:59:30.834 INFO  OrderSaga StartOrder received with OrderId ab4e9091-c687-4b29-8a90-7a76f3a63ed0
+2019-04-15 17:59:30.880 INFO  OrderSaga Process with OrderId ab4e9091-c687-4b29-8a90-7a76f3a63ed0
+2019-04-15 17:59:30.904 INFO  OrderSaga CompleteOrder received with OrderId ab4e9091-c687-4b29-8a90-7a76f3a63ed0
+2019-04-15 17:59:30.959 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 08f4b13c-e398-42e3-8b66-aa31001058b3
+2019-04-15 17:59:30.964 INFO  OrderSaga StartOrder received with OrderId b4678a9e-ee5c-46a1-bb32-7f91708b3a82
+2019-04-15 17:59:30.977 INFO  OrderSaga Process with OrderId b4678a9e-ee5c-46a1-bb32-7f91708b3a82
+2019-04-15 17:59:30.991 INFO  OrderSaga CompleteOrder received with OrderId b4678a9e-ee5c-46a1-bb32-7f91708b3a82
+2019-04-15 17:59:31.140 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 93dfae61-8181-44cb-864b-aa31001058e6
+2019-04-15 17:59:31.149 INFO  OrderSaga StartOrder received with OrderId 73a2c16a-0f36-432d-b845-d7f9414822fc
+2019-04-15 17:59:31.168 INFO  OrderSaga Process with OrderId 73a2c16a-0f36-432d-b845-d7f9414822fc
+2019-04-15 17:59:31.181 INFO  OrderSaga CompleteOrder received with OrderId 73a2c16a-0f36-432d-b845-d7f9414822fc
+2019-04-15 17:59:31.223 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7b02d03d-d3ab-476c-8e39-aa3100105905
+2019-04-15 17:59:31.227 INFO  OrderSaga StartOrder received with OrderId 575acabb-2ded-4560-9209-d545c93b8766
+2019-04-15 17:59:31.238 INFO  OrderSaga Process with OrderId 575acabb-2ded-4560-9209-d545c93b8766
+2019-04-15 17:59:31.261 INFO  OrderSaga CompleteOrder received with OrderId 575acabb-2ded-4560-9209-d545c93b8766
+2019-04-15 17:59:31.418 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 965b4437-2970-448b-9830-aa3100105939
+2019-04-15 17:59:31.428 INFO  OrderSaga StartOrder received with OrderId 81664cff-96f1-44d9-b2a4-56e3134c568d
+2019-04-15 17:59:31.446 INFO  OrderSaga Process with OrderId 81664cff-96f1-44d9-b2a4-56e3134c568d
+2019-04-15 17:59:31.458 INFO  OrderSaga CompleteOrder received with OrderId 81664cff-96f1-44d9-b2a4-56e3134c568d
+2019-04-15 17:59:31.564 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ea5011ff-eae7-4bc5-ac7b-aa3100105964
+2019-04-15 17:59:31.574 INFO  OrderSaga StartOrder received with OrderId 619529a1-5be1-4a7f-9a7d-4f75b9eae702
+2019-04-15 17:59:31.593 INFO  OrderSaga Process with OrderId 619529a1-5be1-4a7f-9a7d-4f75b9eae702
+2019-04-15 17:59:31.606 INFO  OrderSaga CompleteOrder received with OrderId 619529a1-5be1-4a7f-9a7d-4f75b9eae702
+2019-04-15 17:59:31.699 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: b51aa418-a1fd-478e-8a9a-aa3100105991
+2019-04-15 17:59:31.712 INFO  OrderSaga StartOrder received with OrderId 319e70c4-9ff2-4c97-a555-4ad84ca1bbca
+2019-04-15 17:59:31.727 INFO  OrderSaga Process with OrderId 319e70c4-9ff2-4c97-a555-4ad84ca1bbca
+2019-04-15 17:59:31.741 INFO  OrderSaga CompleteOrder received with OrderId 319e70c4-9ff2-4c97-a555-4ad84ca1bbca
+2019-04-15 17:59:31.891 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9089d3e1-0570-4a40-9828-aa31001059c7
+2019-04-15 17:59:31.900 INFO  OrderSaga StartOrder received with OrderId 88b00983-f530-49eb-a23d-3a0379ca35f3
+2019-04-15 17:59:31.919 INFO  OrderSaga Process with OrderId 88b00983-f530-49eb-a23d-3a0379ca35f3
+2019-04-15 17:59:31.932 INFO  OrderSaga CompleteOrder received with OrderId 88b00983-f530-49eb-a23d-3a0379ca35f3
+2019-04-15 17:59:32.041 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: dd8a0690-aff1-4db4-a5fc-aa31001059f4
+2019-04-15 17:59:32.049 INFO  OrderSaga StartOrder received with OrderId 6593fcee-952e-470c-999e-a2192ddada09
+2019-04-15 17:59:32.063 INFO  OrderSaga Process with OrderId 6593fcee-952e-470c-999e-a2192ddada09
+2019-04-15 17:59:32.077 INFO  OrderSaga CompleteOrder received with OrderId 6593fcee-952e-470c-999e-a2192ddada09
+2019-04-15 17:59:32.343 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c8d62bdd-f182-423a-91f7-aa3100105a4f
+2019-04-15 17:59:32.353 INFO  OrderSaga StartOrder received with OrderId aa6d5a79-db77-4364-8767-4018e6778334
+2019-04-15 17:59:32.371 INFO  OrderSaga Process with OrderId aa6d5a79-db77-4364-8767-4018e6778334
+2019-04-15 17:59:32.383 INFO  OrderSaga CompleteOrder received with OrderId aa6d5a79-db77-4364-8767-4018e6778334
+2019-04-15 17:59:32.494 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 333b3cb3-1471-4d5f-a813-aa3100105a7e
+2019-04-15 17:59:32.500 INFO  OrderSaga StartOrder received with OrderId 79a34250-6cf5-43ad-bac6-26630f5a1215
+2019-04-15 17:59:32.510 INFO  OrderSaga Process with OrderId 79a34250-6cf5-43ad-bac6-26630f5a1215
+2019-04-15 17:59:32.525 INFO  OrderSaga CompleteOrder received with OrderId 79a34250-6cf5-43ad-bac6-26630f5a1215
+2019-04-15 17:59:32.674 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5c092402-1653-483f-8e5e-aa3100105ab4
+2019-04-15 17:59:32.682 INFO  OrderSaga StartOrder received with OrderId 99b67576-4f59-4e47-9f43-9624854b0da3
+2019-04-15 17:59:32.700 INFO  OrderSaga Process with OrderId 99b67576-4f59-4e47-9f43-9624854b0da3
+2019-04-15 17:59:32.714 INFO  OrderSaga CompleteOrder received with OrderId 99b67576-4f59-4e47-9f43-9624854b0da3
+2019-04-15 17:59:32.759 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: efee096a-4d0d-4d1a-bbd8-aa3100105ad2
+2019-04-15 17:59:32.764 INFO  OrderSaga StartOrder received with OrderId 750100d5-5aac-4c18-9735-966987e6fc11
+2019-04-15 17:59:32.775 INFO  OrderSaga Process with OrderId 750100d5-5aac-4c18-9735-966987e6fc11
+2019-04-15 17:59:32.789 INFO  OrderSaga CompleteOrder received with OrderId 750100d5-5aac-4c18-9735-966987e6fc11
+2019-04-15 17:59:32.945 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 475a92bb-1427-4ab0-8981-aa3100105b05
+2019-04-15 17:59:32.953 INFO  OrderSaga StartOrder received with OrderId f295c302-505d-4696-9da9-475401aeabe6
+2019-04-15 17:59:32.970 INFO  OrderSaga Process with OrderId f295c302-505d-4696-9da9-475401aeabe6
+2019-04-15 17:59:32.983 INFO  OrderSaga CompleteOrder received with OrderId f295c302-505d-4696-9da9-475401aeabe6
+2019-04-15 17:59:33.079 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cfdb5cab-87a8-41c1-90f4-aa3100105b2d
+2019-04-15 17:59:33.094 INFO  OrderSaga StartOrder received with OrderId f0111980-d7f3-44ab-892f-c80db1724f20
+2019-04-15 17:59:33.114 INFO  OrderSaga Process with OrderId f0111980-d7f3-44ab-892f-c80db1724f20
+2019-04-15 17:59:33.139 INFO  OrderSaga CompleteOrder received with OrderId f0111980-d7f3-44ab-892f-c80db1724f20
+2019-04-15 17:59:33.227 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 84753acb-fa6b-42ce-b34f-aa3100105b5a
+2019-04-15 17:59:33.233 INFO  OrderSaga StartOrder received with OrderId 3d8d527b-99ab-4d80-82da-5473a4c5a820
+2019-04-15 17:59:33.243 INFO  OrderSaga Process with OrderId 3d8d527b-99ab-4d80-82da-5473a4c5a820
+2019-04-15 17:59:33.256 INFO  OrderSaga CompleteOrder received with OrderId 3d8d527b-99ab-4d80-82da-5473a4c5a820
+2019-04-15 17:59:33.410 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ef11e426-8dc7-4367-8b8a-aa3100105b90
+2019-04-15 17:59:33.425 INFO  OrderSaga StartOrder received with OrderId b5738c59-9b3e-4775-af58-1f591dfe2765
+2019-04-15 17:59:33.443 INFO  OrderSaga Process with OrderId b5738c59-9b3e-4775-af58-1f591dfe2765
+2019-04-15 17:59:33.457 INFO  OrderSaga CompleteOrder received with OrderId b5738c59-9b3e-4775-af58-1f591dfe2765
+2019-04-15 17:59:33.574 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7c7db529-6264-4259-9559-aa3100105bc0
+2019-04-15 17:59:33.582 INFO  OrderSaga StartOrder received with OrderId 3e5a9ced-c101-4678-9093-b139ecb2956f
+2019-04-15 17:59:33.598 INFO  OrderSaga Process with OrderId 3e5a9ced-c101-4678-9093-b139ecb2956f
+2019-04-15 17:59:33.622 INFO  OrderSaga CompleteOrder received with OrderId 3e5a9ced-c101-4678-9093-b139ecb2956f
+2019-04-15 17:59:33.717 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 78ce008e-9de6-4fd9-a0b3-aa3100105bed
+2019-04-15 17:59:33.726 INFO  OrderSaga StartOrder received with OrderId 5d2ddc45-423d-4458-993b-2276ee0a8bde
+2019-04-15 17:59:33.739 INFO  OrderSaga Process with OrderId 5d2ddc45-423d-4458-993b-2276ee0a8bde
+2019-04-15 17:59:33.761 INFO  OrderSaga CompleteOrder received with OrderId 5d2ddc45-423d-4458-993b-2276ee0a8bde
+2019-04-15 17:59:33.894 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4bef50e4-fb04-4402-8195-aa3100105c20
+2019-04-15 17:59:33.906 INFO  OrderSaga StartOrder received with OrderId e305a90a-724f-46df-ab11-16b2324230ff
+2019-04-15 17:59:33.924 INFO  OrderSaga Process with OrderId e305a90a-724f-46df-ab11-16b2324230ff
+2019-04-15 17:59:33.937 INFO  OrderSaga CompleteOrder received with OrderId e305a90a-724f-46df-ab11-16b2324230ff
+2019-04-15 17:59:34.030 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ad429f77-423a-4015-820f-aa3100105c4c
+2019-04-15 17:59:34.042 INFO  OrderSaga StartOrder received with OrderId 80023db5-32e5-4aaa-b263-483946dbb00a
+2019-04-15 17:59:34.058 INFO  OrderSaga Process with OrderId 80023db5-32e5-4aaa-b263-483946dbb00a
+2019-04-15 17:59:34.073 INFO  OrderSaga CompleteOrder received with OrderId 80023db5-32e5-4aaa-b263-483946dbb00a
+2019-04-15 17:59:34.192 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8cfd43c6-bcda-4d69-8a5c-aa3100105c79
+2019-04-15 17:59:34.205 INFO  OrderSaga StartOrder received with OrderId af4a0c52-4b9d-4910-bbdf-aa8c9c0dbb38
+2019-04-15 17:59:34.222 INFO  OrderSaga Process with OrderId af4a0c52-4b9d-4910-bbdf-aa8c9c0dbb38
+2019-04-15 17:59:34.245 INFO  OrderSaga CompleteOrder received with OrderId af4a0c52-4b9d-4910-bbdf-aa8c9c0dbb38
+2019-04-15 17:59:34.355 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8ab68ac7-803e-49b0-9107-aa3100105ca9
+2019-04-15 17:59:34.363 INFO  OrderSaga StartOrder received with OrderId a0c7d5ab-de09-43f1-8064-d53a1c0853d7
+2019-04-15 17:59:34.382 INFO  OrderSaga Process with OrderId a0c7d5ab-de09-43f1-8064-d53a1c0853d7
+2019-04-15 17:59:34.395 INFO  OrderSaga CompleteOrder received with OrderId a0c7d5ab-de09-43f1-8064-d53a1c0853d7
+2019-04-15 17:59:34.507 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 16a055fc-6a8a-4d56-817c-aa3100105cd9
+2019-04-15 17:59:34.515 INFO  OrderSaga StartOrder received with OrderId d85714eb-92dd-4724-ab3e-83a1aee0c5ae
+2019-04-15 17:59:34.532 INFO  OrderSaga Process with OrderId d85714eb-92dd-4724-ab3e-83a1aee0c5ae
+2019-04-15 17:59:34.544 INFO  OrderSaga CompleteOrder received with OrderId d85714eb-92dd-4724-ab3e-83a1aee0c5ae
+2019-04-15 17:59:34.671 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: be6c4a27-26fc-4dd5-8d0e-aa3100105d09
+2019-04-15 17:59:34.685 INFO  OrderSaga StartOrder received with OrderId 366a438e-627e-4f70-8576-0be1a20ad3fa
+2019-04-15 17:59:34.704 INFO  OrderSaga Process with OrderId 366a438e-627e-4f70-8576-0be1a20ad3fa
+2019-04-15 17:59:34.718 INFO  OrderSaga CompleteOrder received with OrderId 366a438e-627e-4f70-8576-0be1a20ad3fa
+2019-04-15 17:59:34.819 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 18e4b6da-f65a-467c-ab79-aa3100105d3a
+2019-04-15 17:59:34.831 INFO  OrderSaga StartOrder received with OrderId a192f37c-456d-41ef-ad22-83169fe7ddab
+2019-04-15 17:59:34.845 INFO  OrderSaga Process with OrderId a192f37c-456d-41ef-ad22-83169fe7ddab
+2019-04-15 17:59:34.859 INFO  OrderSaga CompleteOrder received with OrderId a192f37c-456d-41ef-ad22-83169fe7ddab
+2019-04-15 17:59:34.981 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: bc0476ae-31e0-4ef6-a046-aa3100105d66
+2019-04-15 17:59:34.987 INFO  OrderSaga StartOrder received with OrderId dbc8a98d-0898-4a58-8771-633914afdb34
+2019-04-15 17:59:35.001 INFO  OrderSaga Process with OrderId dbc8a98d-0898-4a58-8771-633914afdb34
+2019-04-15 17:59:35.015 INFO  OrderSaga CompleteOrder received with OrderId dbc8a98d-0898-4a58-8771-633914afdb34
+2019-04-15 17:59:35.136 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4b49a07f-a439-4e70-97d3-aa3100105d99
+2019-04-15 17:59:35.142 INFO  OrderSaga StartOrder received with OrderId 56163c3f-473b-466d-9d6f-aacab6392c00
+2019-04-15 17:59:35.154 INFO  OrderSaga Process with OrderId 56163c3f-473b-466d-9d6f-aacab6392c00
+2019-04-15 17:59:35.166 INFO  OrderSaga CompleteOrder received with OrderId 56163c3f-473b-466d-9d6f-aacab6392c00
+2019-04-15 17:59:35.321 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c1c12e47-35ac-4a8c-aae0-aa3100105dce
+2019-04-15 17:59:35.332 INFO  OrderSaga StartOrder received with OrderId 1baf2293-5b14-41aa-901f-af297d875f8d
+2019-04-15 17:59:35.348 INFO  OrderSaga Process with OrderId 1baf2293-5b14-41aa-901f-af297d875f8d
+2019-04-15 17:59:35.373 INFO  OrderSaga CompleteOrder received with OrderId 1baf2293-5b14-41aa-901f-af297d875f8d
+2019-04-15 17:59:35.473 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d993aa73-7822-44d9-86f5-aa3100105dfc
+2019-04-15 17:59:35.480 INFO  OrderSaga StartOrder received with OrderId ea735009-497c-4a41-bd35-ae06ad77e039
+2019-04-15 17:59:35.493 INFO  OrderSaga Process with OrderId ea735009-497c-4a41-bd35-ae06ad77e039
+2019-04-15 17:59:35.507 INFO  OrderSaga CompleteOrder received with OrderId ea735009-497c-4a41-bd35-ae06ad77e039
+2019-04-15 17:59:35.642 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 6b2a2bb7-48ea-4340-83ab-aa3100105e30
+2019-04-15 17:59:35.651 INFO  OrderSaga StartOrder received with OrderId f420d469-7d49-4f6e-a3ef-af8b1b223f58
+2019-04-15 17:59:35.670 INFO  OrderSaga Process with OrderId f420d469-7d49-4f6e-a3ef-af8b1b223f58
+2019-04-15 17:59:35.683 INFO  OrderSaga CompleteOrder received with OrderId f420d469-7d49-4f6e-a3ef-af8b1b223f58
+2019-04-15 17:59:35.826 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a3b3a729-49f6-49de-87a2-aa3100105e63
+2019-04-15 17:59:35.834 INFO  OrderSaga StartOrder received with OrderId 46f0960e-0715-4b1d-a2b4-94a586088d4a
+2019-04-15 17:59:35.852 INFO  OrderSaga Process with OrderId 46f0960e-0715-4b1d-a2b4-94a586088d4a
+2019-04-15 17:59:35.866 INFO  OrderSaga CompleteOrder received with OrderId 46f0960e-0715-4b1d-a2b4-94a586088d4a
+2019-04-15 17:59:35.973 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 58502103-a3e2-498e-a65e-aa3100105e92
+2019-04-15 17:59:35.981 INFO  OrderSaga StartOrder received with OrderId 97104989-1ecd-4570-8819-63f35b94e203
+2019-04-15 17:59:35.999 INFO  OrderSaga Process with OrderId 97104989-1ecd-4570-8819-63f35b94e203
+2019-04-15 17:59:36.011 INFO  OrderSaga CompleteOrder received with OrderId 97104989-1ecd-4570-8819-63f35b94e203
+2019-04-15 17:59:36.136 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f3060b1e-c75b-4e1b-a359-aa3100105ec3
+2019-04-15 17:59:36.149 INFO  OrderSaga StartOrder received with OrderId 509254e4-c16d-44ae-b550-07b4e3668079
+2019-04-15 17:59:36.166 INFO  OrderSaga Process with OrderId 509254e4-c16d-44ae-b550-07b4e3668079
+2019-04-15 17:59:36.181 INFO  OrderSaga CompleteOrder received with OrderId 509254e4-c16d-44ae-b550-07b4e3668079
+2019-04-15 17:59:36.312 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d999f0aa-cf20-4984-9c82-aa3100105ef6
+2019-04-15 17:59:36.330 INFO  OrderSaga StartOrder received with OrderId 8a1d002d-a0b7-458b-bb28-cc8a8699940a
+2019-04-15 17:59:36.350 INFO  OrderSaga Process with OrderId 8a1d002d-a0b7-458b-bb28-cc8a8699940a
+2019-04-15 17:59:36.384 INFO  OrderSaga CompleteOrder received with OrderId 8a1d002d-a0b7-458b-bb28-cc8a8699940a
+2019-04-15 17:59:36.544 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7d1af221-1570-43ad-8f81-aa3100105f3b
+2019-04-15 17:59:36.553 INFO  OrderSaga StartOrder received with OrderId 73356156-3b33-4925-827a-ff3e6118db01
+2019-04-15 17:59:36.569 INFO  OrderSaga Process with OrderId 73356156-3b33-4925-827a-ff3e6118db01
+2019-04-15 17:59:36.582 INFO  OrderSaga CompleteOrder received with OrderId 73356156-3b33-4925-827a-ff3e6118db01
+2019-04-15 17:59:36.606 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e8601882-e6de-4851-beac-aa3100105f54
+2019-04-15 17:59:36.611 INFO  OrderSaga StartOrder received with OrderId ffda0f97-affb-4200-a967-ed7cf2272477
+2019-04-15 17:59:36.621 INFO  OrderSaga Process with OrderId ffda0f97-affb-4200-a967-ed7cf2272477
+2019-04-15 17:59:36.635 INFO  OrderSaga CompleteOrder received with OrderId ffda0f97-affb-4200-a967-ed7cf2272477
+2019-04-15 17:59:36.841 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: affee9ac-f634-4c49-843d-aa3100105f93
+2019-04-15 17:59:36.849 INFO  OrderSaga StartOrder received with OrderId 3bc64529-793a-42a8-814b-7c3c84a17b92
+2019-04-15 17:59:36.865 INFO  OrderSaga Process with OrderId 3bc64529-793a-42a8-814b-7c3c84a17b92
+2019-04-15 17:59:36.888 INFO  OrderSaga CompleteOrder received with OrderId 3bc64529-793a-42a8-814b-7c3c84a17b92
+2019-04-15 17:59:36.968 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f36a0275-d687-4c7a-969e-aa3100105fbc
+2019-04-15 17:59:36.978 INFO  OrderSaga StartOrder received with OrderId f048635e-ede4-4573-a1dc-5aa11b182117
+2019-04-15 17:59:36.994 INFO  OrderSaga Process with OrderId f048635e-ede4-4573-a1dc-5aa11b182117
+2019-04-15 17:59:37.009 INFO  OrderSaga CompleteOrder received with OrderId f048635e-ede4-4573-a1dc-5aa11b182117
+2019-04-15 17:59:37.121 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 11114941-3319-4424-8c67-aa3100105fea
+2019-04-15 17:59:37.136 INFO  OrderSaga StartOrder received with OrderId af09fe99-d84c-4ab6-bc89-f922e835e9d2
+2019-04-15 17:59:37.153 INFO  OrderSaga Process with OrderId af09fe99-d84c-4ab6-bc89-f922e835e9d2
+2019-04-15 17:59:37.167 INFO  OrderSaga CompleteOrder received with OrderId af09fe99-d84c-4ab6-bc89-f922e835e9d2
+2019-04-15 17:59:37.295 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: bbe1b3e1-1400-47a6-9918-aa310010601f
+2019-04-15 17:59:37.305 INFO  OrderSaga StartOrder received with OrderId e1da9d09-5feb-42ac-bce9-9adf660ebb1e
+2019-04-15 17:59:37.324 INFO  OrderSaga Process with OrderId e1da9d09-5feb-42ac-bce9-9adf660ebb1e
+2019-04-15 17:59:37.336 INFO  OrderSaga CompleteOrder received with OrderId e1da9d09-5feb-42ac-bce9-9adf660ebb1e
+2019-04-15 17:59:37.449 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 16bf8c3d-a4b6-4ee9-b3ee-aa310010604b
+2019-04-15 17:59:37.458 INFO  OrderSaga StartOrder received with OrderId eea60ba5-21d1-44a8-a26a-43c3d869d04c
+2019-04-15 17:59:37.476 INFO  OrderSaga Process with OrderId eea60ba5-21d1-44a8-a26a-43c3d869d04c
+2019-04-15 17:59:37.490 INFO  OrderSaga CompleteOrder received with OrderId eea60ba5-21d1-44a8-a26a-43c3d869d04c
+2019-04-15 17:59:37.600 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 58ba8ec8-8543-450c-acab-aa310010607b
+2019-04-15 17:59:37.607 INFO  OrderSaga StartOrder received with OrderId 1daf71cc-b9e5-413d-a7d9-cca985f98c65
+2019-04-15 17:59:37.623 INFO  OrderSaga Process with OrderId 1daf71cc-b9e5-413d-a7d9-cca985f98c65
+2019-04-15 17:59:37.637 INFO  OrderSaga CompleteOrder received with OrderId 1daf71cc-b9e5-413d-a7d9-cca985f98c65
+2019-04-15 17:59:37.774 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 202267b5-77cd-47db-aacb-aa31001060b0
+2019-04-15 17:59:37.783 INFO  OrderSaga StartOrder received with OrderId 1291a1a6-e678-4803-8c18-95fc4e9ecad3
+2019-04-15 17:59:37.802 INFO  OrderSaga Process with OrderId 1291a1a6-e678-4803-8c18-95fc4e9ecad3
+2019-04-15 17:59:37.825 INFO  OrderSaga CompleteOrder received with OrderId 1291a1a6-e678-4803-8c18-95fc4e9ecad3
+2019-04-15 17:59:37.953 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 862a9907-0876-4416-8c59-aa31001060e2
+2019-04-15 17:59:37.962 INFO  OrderSaga StartOrder received with OrderId 4b0afa2e-2d04-4d64-8fb3-e3ebe4e4882a
+2019-04-15 17:59:37.982 INFO  OrderSaga Process with OrderId 4b0afa2e-2d04-4d64-8fb3-e3ebe4e4882a
+2019-04-15 17:59:37.995 INFO  OrderSaga CompleteOrder received with OrderId 4b0afa2e-2d04-4d64-8fb3-e3ebe4e4882a
+2019-04-15 17:59:38.093 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2acc8f30-9c95-4e1f-b2a6-aa310010610f
+2019-04-15 17:59:38.105 INFO  OrderSaga StartOrder received with OrderId 890c12d3-1ae0-4fee-9145-ee67d242c2ba
+2019-04-15 17:59:38.122 INFO  OrderSaga Process with OrderId 890c12d3-1ae0-4fee-9145-ee67d242c2ba
+2019-04-15 17:59:38.145 INFO  OrderSaga CompleteOrder received with OrderId 890c12d3-1ae0-4fee-9145-ee67d242c2ba
+2019-04-15 17:59:38.283 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a6512e17-f8b3-4496-9ea2-aa3100106146
+2019-04-15 17:59:38.292 INFO  OrderSaga StartOrder received with OrderId f9da347c-593a-4c9f-8eb3-b1f9950d23cc
+2019-04-15 17:59:38.312 INFO  OrderSaga Process with OrderId f9da347c-593a-4c9f-8eb3-b1f9950d23cc
+2019-04-15 17:59:38.325 INFO  OrderSaga CompleteOrder received with OrderId f9da347c-593a-4c9f-8eb3-b1f9950d23cc
+2019-04-15 17:59:38.436 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2106513a-1325-4b0e-8695-aa3100106174
+2019-04-15 17:59:38.448 INFO  OrderSaga StartOrder received with OrderId 5f3b2d7b-3abc-40b9-930e-e34152cfeb31
+2019-04-15 17:59:38.468 INFO  OrderSaga Process with OrderId 5f3b2d7b-3abc-40b9-930e-e34152cfeb31
+2019-04-15 17:59:38.483 INFO  OrderSaga CompleteOrder received with OrderId 5f3b2d7b-3abc-40b9-930e-e34152cfeb31
+2019-04-15 17:59:38.572 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a019bc52-00a4-47dc-bb18-aa31001061a1
+2019-04-15 17:59:38.579 INFO  OrderSaga StartOrder received with OrderId 0d98bf47-f2e4-43d5-8da8-f6f61653b4c2
+2019-04-15 17:59:38.592 INFO  OrderSaga Process with OrderId 0d98bf47-f2e4-43d5-8da8-f6f61653b4c2
+2019-04-15 17:59:38.606 INFO  OrderSaga CompleteOrder received with OrderId 0d98bf47-f2e4-43d5-8da8-f6f61653b4c2
+2019-04-15 17:59:38.777 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a7217ae8-7d04-490a-8e10-aa31001061dc
+2019-04-15 17:59:38.796 INFO  OrderSaga StartOrder received with OrderId 96959032-1513-4fba-b4b0-085d034ddb92
+2019-04-15 17:59:38.815 INFO  OrderSaga Process with OrderId 96959032-1513-4fba-b4b0-085d034ddb92
+2019-04-15 17:59:38.828 INFO  OrderSaga CompleteOrder received with OrderId 96959032-1513-4fba-b4b0-085d034ddb92
+2019-04-15 17:59:38.931 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0a4058f5-eeb6-4b69-8ac3-aa310010620b
+2019-04-15 17:59:38.943 INFO  OrderSaga StartOrder received with OrderId 4de40a2a-c6f7-4c9c-a4a3-fb8e22f051ea
+2019-04-15 17:59:38.957 INFO  OrderSaga Process with OrderId 4de40a2a-c6f7-4c9c-a4a3-fb8e22f051ea
+2019-04-15 17:59:38.981 INFO  OrderSaga CompleteOrder received with OrderId 4de40a2a-c6f7-4c9c-a4a3-fb8e22f051ea
+2019-04-15 17:59:39.105 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5737cabf-bc53-487a-849a-aa310010623b
+2019-04-15 17:59:39.116 INFO  OrderSaga StartOrder received with OrderId 240d67c0-e09d-406e-9d1f-5542a64e1b58
+2019-04-15 17:59:39.141 INFO  OrderSaga Process with OrderId 240d67c0-e09d-406e-9d1f-5542a64e1b58
+2019-04-15 17:59:39.165 INFO  OrderSaga CompleteOrder received with OrderId 240d67c0-e09d-406e-9d1f-5542a64e1b58
+2019-04-15 17:59:39.258 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 355869e4-b81f-4775-af86-aa310010626b
+2019-04-15 17:59:39.272 INFO  OrderSaga StartOrder received with OrderId 8ddd8bd2-621d-46bc-8431-b3bfaaef1056
+2019-04-15 17:59:39.288 INFO  OrderSaga Process with OrderId 8ddd8bd2-621d-46bc-8431-b3bfaaef1056
+2019-04-15 17:59:39.310 INFO  OrderSaga CompleteOrder received with OrderId 8ddd8bd2-621d-46bc-8431-b3bfaaef1056
+2019-04-15 17:59:39.432 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d5460543-1203-4aee-b2d0-aa31001062a0
+2019-04-15 17:59:39.443 INFO  OrderSaga StartOrder received with OrderId 27304d37-29c3-4a62-897d-2f04d8ff89d2
+2019-04-15 17:59:39.459 INFO  OrderSaga Process with OrderId 27304d37-29c3-4a62-897d-2f04d8ff89d2
+2019-04-15 17:59:39.482 INFO  OrderSaga CompleteOrder received with OrderId 27304d37-29c3-4a62-897d-2f04d8ff89d2
+2019-04-15 17:59:39.605 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7fe57c7f-0c4a-4947-a70a-aa31001062d1
+2019-04-15 17:59:39.614 INFO  OrderSaga StartOrder received with OrderId f76cf5a5-ec9f-4921-a8db-24de7827f93e
+2019-04-15 17:59:39.632 INFO  OrderSaga Process with OrderId f76cf5a5-ec9f-4921-a8db-24de7827f93e
+2019-04-15 17:59:39.646 INFO  OrderSaga CompleteOrder received with OrderId f76cf5a5-ec9f-4921-a8db-24de7827f93e
+2019-04-15 17:59:39.747 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a08bf092-82f7-4bf2-b6c3-aa31001062ff
+2019-04-15 17:59:39.760 INFO  OrderSaga StartOrder received with OrderId 32ff9968-60a9-4af5-b24b-9728f70b3284
+2019-04-15 17:59:39.782 INFO  OrderSaga Process with OrderId 32ff9968-60a9-4af5-b24b-9728f70b3284
+2019-04-15 17:59:39.795 INFO  OrderSaga CompleteOrder received with OrderId 32ff9968-60a9-4af5-b24b-9728f70b3284
+2019-04-15 17:59:39.934 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8678d914-ff36-4e03-9c69-aa3100106334
+2019-04-15 17:59:39.944 INFO  OrderSaga StartOrder received with OrderId ae186720-03b8-4c43-9478-0f1d6c79d2f7
+2019-04-15 17:59:39.963 INFO  OrderSaga Process with OrderId ae186720-03b8-4c43-9478-0f1d6c79d2f7
+2019-04-15 17:59:39.976 INFO  OrderSaga CompleteOrder received with OrderId ae186720-03b8-4c43-9478-0f1d6c79d2f7
+2019-04-15 17:59:40.089 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 6fc59ace-f278-4d42-afdd-aa3100106365
+2019-04-15 17:59:40.100 INFO  OrderSaga StartOrder received with OrderId 507f586b-d9c7-4482-b75a-3f74a8cc2f41
+2019-04-15 17:59:40.118 INFO  OrderSaga Process with OrderId 507f586b-d9c7-4482-b75a-3f74a8cc2f41
+2019-04-15 17:59:40.130 INFO  OrderSaga CompleteOrder received with OrderId 507f586b-d9c7-4482-b75a-3f74a8cc2f41
+2019-04-15 17:59:40.267 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cfb7bb91-b978-481d-b369-aa310010639b
+2019-04-15 17:59:40.281 INFO  OrderSaga StartOrder received with OrderId d499e423-4888-4536-b97c-6bb98aa71771
+2019-04-15 17:59:40.300 INFO  OrderSaga Process with OrderId d499e423-4888-4536-b97c-6bb98aa71771
+2019-04-15 17:59:40.325 INFO  OrderSaga CompleteOrder received with OrderId d499e423-4888-4536-b97c-6bb98aa71771
+2019-04-15 17:59:40.402 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: edef45d4-68a8-4bcf-b3db-aa31001063c1
+2019-04-15 17:59:40.407 INFO  OrderSaga StartOrder received with OrderId 6eea4351-4514-4084-89a8-888139171ee5
+2019-04-15 17:59:40.418 INFO  OrderSaga Process with OrderId 6eea4351-4514-4084-89a8-888139171ee5
+2019-04-15 17:59:40.432 INFO  OrderSaga CompleteOrder received with OrderId 6eea4351-4514-4084-89a8-888139171ee5
+2019-04-15 17:59:40.577 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1b11907c-238e-4e9d-889d-aa31001063f4
+2019-04-15 17:59:40.586 INFO  OrderSaga StartOrder received with OrderId bca24e29-9f3d-40f5-9509-7a181a312ef0
+2019-04-15 17:59:40.599 INFO  OrderSaga Process with OrderId bca24e29-9f3d-40f5-9509-7a181a312ef0
+2019-04-15 17:59:40.624 INFO  OrderSaga CompleteOrder received with OrderId bca24e29-9f3d-40f5-9509-7a181a312ef0
+2019-04-15 17:59:40.730 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: aa456fb7-8b89-4dca-87ba-aa3100106426
+2019-04-15 17:59:40.744 INFO  OrderSaga StartOrder received with OrderId 7031852d-f6df-41c4-8b32-f16285aa87d6
+2019-04-15 17:59:40.765 INFO  OrderSaga Process with OrderId 7031852d-f6df-41c4-8b32-f16285aa87d6
+2019-04-15 17:59:40.779 INFO  OrderSaga CompleteOrder received with OrderId 7031852d-f6df-41c4-8b32-f16285aa87d6
+2019-04-15 17:59:40.892 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d2780e92-6cc1-4104-a5fa-aa3100106457
+2019-04-15 17:59:40.900 INFO  OrderSaga StartOrder received with OrderId c3d70f3b-abb4-4103-95e9-58a2033b7a4d
+2019-04-15 17:59:40.917 INFO  OrderSaga Process with OrderId c3d70f3b-abb4-4103-95e9-58a2033b7a4d
+2019-04-15 17:59:40.930 INFO  OrderSaga CompleteOrder received with OrderId c3d70f3b-abb4-4103-95e9-58a2033b7a4d
+2019-04-15 17:59:41.055 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9195554d-ccec-436a-9444-aa3100106488
+2019-04-15 17:59:41.067 INFO  OrderSaga StartOrder received with OrderId a3bcf418-7617-4ee6-8aba-c658baeda58f
+2019-04-15 17:59:41.083 INFO  OrderSaga Process with OrderId a3bcf418-7617-4ee6-8aba-c658baeda58f
+2019-04-15 17:59:41.106 INFO  OrderSaga CompleteOrder received with OrderId a3bcf418-7617-4ee6-8aba-c658baeda58f
+2019-04-15 17:59:41.231 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ed315d2a-5291-44e0-969d-aa31001064bf
+2019-04-15 17:59:41.241 INFO  OrderSaga StartOrder received with OrderId 5adee7ec-b635-4743-a27d-d42eb2338b42
+2019-04-15 17:59:41.255 INFO  OrderSaga Process with OrderId 5adee7ec-b635-4743-a27d-d42eb2338b42
+2019-04-15 17:59:41.280 INFO  OrderSaga CompleteOrder received with OrderId 5adee7ec-b635-4743-a27d-d42eb2338b42
+2019-04-15 17:59:41.407 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1c1ca137-a1e0-46a6-9662-aa31001064f0
+2019-04-15 17:59:41.418 INFO  OrderSaga StartOrder received with OrderId 73f1d28f-4ffe-431b-9f93-7d0056e540e8
+2019-04-15 17:59:41.438 INFO  OrderSaga Process with OrderId 73f1d28f-4ffe-431b-9f93-7d0056e540e8
+2019-04-15 17:59:41.451 INFO  OrderSaga CompleteOrder received with OrderId 73f1d28f-4ffe-431b-9f93-7d0056e540e8
+2019-04-15 17:59:41.618 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 04dc7e3d-8742-4d83-9e54-aa310010652f
+2019-04-15 17:59:41.627 INFO  OrderSaga StartOrder received with OrderId 9ead8b43-b744-4974-8301-61901f97598c
+2019-04-15 17:59:41.644 INFO  OrderSaga Process with OrderId 9ead8b43-b744-4974-8301-61901f97598c
+2019-04-15 17:59:41.669 INFO  OrderSaga CompleteOrder received with OrderId 9ead8b43-b744-4974-8301-61901f97598c
+2019-04-15 17:59:41.806 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0551df67-5793-4e73-a9fe-aa310010656a
+2019-04-15 17:59:41.816 INFO  OrderSaga StartOrder received with OrderId 0a357079-5492-4923-9484-c89f2e74db0b
+2019-04-15 17:59:41.829 INFO  OrderSaga Process with OrderId 0a357079-5492-4923-9484-c89f2e74db0b
+2019-04-15 17:59:41.842 INFO  OrderSaga CompleteOrder received with OrderId 0a357079-5492-4923-9484-c89f2e74db0b
+2019-04-15 17:59:41.972 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7815755d-01fd-4b79-ab3c-aa3100106598
+2019-04-15 17:59:41.980 INFO  OrderSaga StartOrder received with OrderId f966b426-77ad-4c66-b981-6f321dbe329b
+2019-04-15 17:59:41.997 INFO  OrderSaga Process with OrderId f966b426-77ad-4c66-b981-6f321dbe329b
+2019-04-15 17:59:42.009 INFO  OrderSaga CompleteOrder received with OrderId f966b426-77ad-4c66-b981-6f321dbe329b
+2019-04-15 17:59:42.121 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7b48835e-a54e-4025-8bf1-aa31001065c8
+2019-04-15 17:59:42.127 INFO  OrderSaga StartOrder received with OrderId ed073c4d-d65b-4873-a770-66d23234e4e1
+2019-04-15 17:59:42.138 INFO  OrderSaga Process with OrderId ed073c4d-d65b-4873-a770-66d23234e4e1
+2019-04-15 17:59:42.152 INFO  OrderSaga CompleteOrder received with OrderId ed073c4d-d65b-4873-a770-66d23234e4e1
+2019-04-15 17:59:42.294 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e794be5b-7914-4fbd-8aed-aa31001065fb
+2019-04-15 17:59:42.302 INFO  OrderSaga StartOrder received with OrderId 0c7046ec-0e45-4123-b437-c8700215d045
+2019-04-15 17:59:42.313 INFO  OrderSaga Process with OrderId 0c7046ec-0e45-4123-b437-c8700215d045
+2019-04-15 17:59:42.327 INFO  OrderSaga CompleteOrder received with OrderId 0c7046ec-0e45-4123-b437-c8700215d045
+2019-04-15 17:59:42.448 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 714b72e6-5981-48dd-8dd7-aa310010662b
+2019-04-15 17:59:42.457 INFO  OrderSaga StartOrder received with OrderId 1f77487b-7ad8-4aae-986f-d77462a64af7
+2019-04-15 17:59:42.468 INFO  OrderSaga Process with OrderId 1f77487b-7ad8-4aae-986f-d77462a64af7
+2019-04-15 17:59:42.481 INFO  OrderSaga CompleteOrder received with OrderId 1f77487b-7ad8-4aae-986f-d77462a64af7
+2019-04-15 17:59:42.647 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2a787941-7022-49de-8735-aa3100106665
+2019-04-15 17:59:42.660 INFO  OrderSaga StartOrder received with OrderId a71e902d-f36b-4c28-a486-040f1ec9a7a0
+2019-04-15 17:59:42.672 INFO  OrderSaga Process with OrderId a71e902d-f36b-4c28-a486-040f1ec9a7a0
+2019-04-15 17:59:42.687 INFO  OrderSaga CompleteOrder received with OrderId a71e902d-f36b-4c28-a486-040f1ec9a7a0
+2019-04-15 17:59:42.812 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4c3098da-aac8-40c1-a830-aa3100106697
+2019-04-15 17:59:42.821 INFO  OrderSaga StartOrder received with OrderId 7f9cd6d3-a46a-47e6-a1a3-3fcbbfad4d1c
+2019-04-15 17:59:42.835 INFO  OrderSaga Process with OrderId 7f9cd6d3-a46a-47e6-a1a3-3fcbbfad4d1c
+2019-04-15 17:59:42.848 INFO  OrderSaga CompleteOrder received with OrderId 7f9cd6d3-a46a-47e6-a1a3-3fcbbfad4d1c
+2019-04-15 17:59:42.960 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a49517bc-40ba-42db-bda3-aa31001066c6
+2019-04-15 17:59:42.966 INFO  OrderSaga StartOrder received with OrderId ab63f422-aa90-41b9-b687-7de5f714753c
+2019-04-15 17:59:42.978 INFO  OrderSaga Process with OrderId ab63f422-aa90-41b9-b687-7de5f714753c
+2019-04-15 17:59:42.993 INFO  OrderSaga CompleteOrder received with OrderId ab63f422-aa90-41b9-b687-7de5f714753c
+2019-04-15 17:59:43.138 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a0ed4634-a23c-4f08-82ec-aa31001066fb
+2019-04-15 17:59:43.143 INFO  OrderSaga StartOrder received with OrderId f0cdd625-e859-449a-8803-784f92585881
+2019-04-15 17:59:43.155 INFO  OrderSaga Process with OrderId f0cdd625-e859-449a-8803-784f92585881
+2019-04-15 17:59:43.178 INFO  OrderSaga CompleteOrder received with OrderId f0cdd625-e859-449a-8803-784f92585881
+2019-04-15 17:59:43.322 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 436f9831-23ea-42f0-b1ca-aa3100106730
+2019-04-15 17:59:43.328 INFO  OrderSaga StartOrder received with OrderId a6db526a-78e9-41a7-bc5f-53790d8b0912
+2019-04-15 17:59:43.339 INFO  OrderSaga Process with OrderId a6db526a-78e9-41a7-bc5f-53790d8b0912
+2019-04-15 17:59:43.352 INFO  OrderSaga CompleteOrder received with OrderId a6db526a-78e9-41a7-bc5f-53790d8b0912
+2019-04-15 17:59:44.462 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 03d307e4-b467-4c96-b60a-aa3100106882
+2019-04-15 17:59:44.471 INFO  OrderSaga StartOrder received with OrderId 1f6eb8e4-e965-4bba-9ac4-fd8ccd0040b2
+2019-04-15 17:59:44.488 INFO  OrderSaga Process with OrderId 1f6eb8e4-e965-4bba-9ac4-fd8ccd0040b2
+2019-04-15 17:59:44.511 INFO  OrderSaga CompleteOrder received with OrderId 1f6eb8e4-e965-4bba-9ac4-fd8ccd0040b2
+2019-04-15 17:59:44.887 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 881be1b0-551d-4d2d-8404-aa3100106905
+2019-04-15 17:59:44.894 INFO  OrderSaga StartOrder received with OrderId 0cfacea2-3d9d-4850-a7bb-b39433e9ed66
+2019-04-15 17:59:44.909 INFO  OrderSaga Process with OrderId 0cfacea2-3d9d-4850-a7bb-b39433e9ed66
+2019-04-15 17:59:44.931 INFO  OrderSaga CompleteOrder received with OrderId 0cfacea2-3d9d-4850-a7bb-b39433e9ed66
+2019-04-15 17:59:45.074 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 86f43aa9-3eba-4535-a4f5-aa3100106938
+2019-04-15 17:59:45.083 INFO  OrderSaga StartOrder received with OrderId b945ee73-a080-43c4-9561-9bd9c3af30d9
+2019-04-15 17:59:45.102 INFO  OrderSaga Process with OrderId b945ee73-a080-43c4-9561-9bd9c3af30d9
+2019-04-15 17:59:45.137 INFO  OrderSaga CompleteOrder received with OrderId b945ee73-a080-43c4-9561-9bd9c3af30d9
+2019-04-15 17:59:45.198 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 66244c8c-b797-48fb-a474-aa3100106963
+2019-04-15 17:59:45.204 INFO  OrderSaga StartOrder received with OrderId f3318c91-d6b5-44de-b8c2-498932437f1b
+2019-04-15 17:59:45.216 INFO  OrderSaga Process with OrderId f3318c91-d6b5-44de-b8c2-498932437f1b
+2019-04-15 17:59:45.230 INFO  OrderSaga CompleteOrder received with OrderId f3318c91-d6b5-44de-b8c2-498932437f1b
+2019-04-15 17:59:45.357 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 71d479fb-33d7-4b95-83ff-aa3100106992
+2019-04-15 17:59:45.365 INFO  OrderSaga StartOrder received with OrderId f024c33c-ff03-4e6f-bb8d-ab43efb28407
+2019-04-15 17:59:45.376 INFO  OrderSaga Process with OrderId f024c33c-ff03-4e6f-bb8d-ab43efb28407
+2019-04-15 17:59:45.389 INFO  OrderSaga CompleteOrder received with OrderId f024c33c-ff03-4e6f-bb8d-ab43efb28407
+2019-04-15 17:59:45.515 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 67afa7c9-cb05-46e6-a1b6-aa31001069c0
+2019-04-15 17:59:45.524 INFO  OrderSaga StartOrder received with OrderId dfbf0cd0-8959-465d-8aec-ecac525678df
+2019-04-15 17:59:45.542 INFO  OrderSaga Process with OrderId dfbf0cd0-8959-465d-8aec-ecac525678df
+2019-04-15 17:59:45.556 INFO  OrderSaga CompleteOrder received with OrderId dfbf0cd0-8959-465d-8aec-ecac525678df
+2019-04-15 17:59:45.664 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: dc9d29bb-6551-44c0-821d-aa31001069ed
+2019-04-15 17:59:45.673 INFO  OrderSaga StartOrder received with OrderId 617a0379-eb07-4671-839e-31645de30597
+2019-04-15 17:59:45.692 INFO  OrderSaga Process with OrderId 617a0379-eb07-4671-839e-31645de30597
+2019-04-15 17:59:45.702 INFO  OrderSaga CompleteOrder received with OrderId 617a0379-eb07-4671-839e-31645de30597
+2019-04-15 17:59:45.812 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7279bb11-7382-4e85-8793-aa3100106a18
+2019-04-15 17:59:45.822 INFO  OrderSaga StartOrder received with OrderId 6e352380-5368-44e0-a07b-81cbc194e240
+2019-04-15 17:59:45.844 INFO  OrderSaga Process with OrderId 6e352380-5368-44e0-a07b-81cbc194e240
+2019-04-15 17:59:45.855 INFO  OrderSaga CompleteOrder received with OrderId 6e352380-5368-44e0-a07b-81cbc194e240
+2019-04-15 17:59:45.963 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 49f2c47f-dc03-4464-882e-aa3100106a46
+2019-04-15 17:59:45.973 INFO  OrderSaga StartOrder received with OrderId 0969df44-9887-40b1-91bc-3d3a13c48772
+2019-04-15 17:59:45.992 INFO  OrderSaga Process with OrderId 0969df44-9887-40b1-91bc-3d3a13c48772
+2019-04-15 17:59:46.004 INFO  OrderSaga CompleteOrder received with OrderId 0969df44-9887-40b1-91bc-3d3a13c48772
+2019-04-15 17:59:46.111 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 51f0508f-7561-488e-8c5f-aa3100106a73
+2019-04-15 17:59:46.121 INFO  OrderSaga StartOrder received with OrderId 6e430929-19b8-4b0b-b409-92f29a2aee4e
+2019-04-15 17:59:46.140 INFO  OrderSaga Process with OrderId 6e430929-19b8-4b0b-b409-92f29a2aee4e
+2019-04-15 17:59:46.151 INFO  OrderSaga CompleteOrder received with OrderId 6e430929-19b8-4b0b-b409-92f29a2aee4e
+2019-04-15 17:59:46.265 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a55c0b2a-a598-451e-929e-aa3100106aa0
+2019-04-15 17:59:46.274 INFO  OrderSaga StartOrder received with OrderId b95ec349-6c74-4e84-95d5-ae0b8a3f6cf3
+2019-04-15 17:59:46.292 INFO  OrderSaga Process with OrderId b95ec349-6c74-4e84-95d5-ae0b8a3f6cf3
+2019-04-15 17:59:46.306 INFO  OrderSaga CompleteOrder received with OrderId b95ec349-6c74-4e84-95d5-ae0b8a3f6cf3
+2019-04-15 17:59:46.418 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 580c31cb-4c4b-4d75-b91e-aa3100106acc
+2019-04-15 17:59:46.429 INFO  OrderSaga StartOrder received with OrderId 44ae64d8-ddcd-403d-97cd-9990a31991d3
+2019-04-15 17:59:46.446 INFO  OrderSaga Process with OrderId 44ae64d8-ddcd-403d-97cd-9990a31991d3
+2019-04-15 17:59:46.460 INFO  OrderSaga CompleteOrder received with OrderId 44ae64d8-ddcd-403d-97cd-9990a31991d3
+2019-04-15 17:59:46.571 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 799e42e0-49f4-4814-b1b8-aa3100106afb
+2019-04-15 17:59:46.580 INFO  OrderSaga StartOrder received with OrderId cba25070-3840-452c-830a-81b6c528d826
+2019-04-15 17:59:46.596 INFO  OrderSaga Process with OrderId cba25070-3840-452c-830a-81b6c528d826
+2019-04-15 17:59:46.613 INFO  OrderSaga CompleteOrder received with OrderId cba25070-3840-452c-830a-81b6c528d826
+2019-04-15 17:59:46.746 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ac7c9ec0-4a5d-4859-a1b3-aa3100106b2f
+2019-04-15 17:59:46.754 INFO  OrderSaga StartOrder received with OrderId 5d226fd2-3ee2-4954-83a0-4f53adedbd3f
+2019-04-15 17:59:46.771 INFO  OrderSaga Process with OrderId 5d226fd2-3ee2-4954-83a0-4f53adedbd3f
+2019-04-15 17:59:46.795 INFO  OrderSaga CompleteOrder received with OrderId 5d226fd2-3ee2-4954-83a0-4f53adedbd3f
+2019-04-15 17:59:46.866 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 895f3f8e-1629-41b6-b6eb-aa3100106b57
+2019-04-15 17:59:46.877 INFO  OrderSaga StartOrder received with OrderId 92369be9-5509-465b-8311-7442151f7b7b
+2019-04-15 17:59:46.897 INFO  OrderSaga Process with OrderId 92369be9-5509-465b-8311-7442151f7b7b
+2019-04-15 17:59:46.911 INFO  OrderSaga CompleteOrder received with OrderId 92369be9-5509-465b-8311-7442151f7b7b
+2019-04-15 17:59:47.044 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: da0bc9cb-f8bd-4ff7-8f67-aa3100106b88
+2019-04-15 17:59:47.055 INFO  OrderSaga StartOrder received with OrderId 6004742b-3698-4332-9830-f2565264d132
+2019-04-15 17:59:47.074 INFO  OrderSaga Process with OrderId 6004742b-3698-4332-9830-f2565264d132
+2019-04-15 17:59:47.087 INFO  OrderSaga CompleteOrder received with OrderId 6004742b-3698-4332-9830-f2565264d132
+2019-04-15 17:59:47.194 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ae41c44b-5cb8-48a4-a362-aa3100106bb7
+2019-04-15 17:59:47.201 INFO  OrderSaga StartOrder received with OrderId a0430f6b-5650-4609-8550-c14187c2bab2
+2019-04-15 17:59:47.223 INFO  OrderSaga Process with OrderId a0430f6b-5650-4609-8550-c14187c2bab2
+2019-04-15 17:59:47.247 INFO  OrderSaga CompleteOrder received with OrderId a0430f6b-5650-4609-8550-c14187c2bab2
+2019-04-15 17:59:47.342 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9040337b-6dfb-44c9-a428-aa3100106be5
+2019-04-15 17:59:47.352 INFO  OrderSaga StartOrder received with OrderId 59fcd059-e9b8-491c-bdb6-f923585e356a
+2019-04-15 17:59:47.371 INFO  OrderSaga Process with OrderId 59fcd059-e9b8-491c-bdb6-f923585e356a
+2019-04-15 17:59:47.384 INFO  OrderSaga CompleteOrder received with OrderId 59fcd059-e9b8-491c-bdb6-f923585e356a
+2019-04-15 17:59:47.499 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d323e438-3c9d-415d-a0ea-aa3100106c13
+2019-04-15 17:59:47.509 INFO  OrderSaga StartOrder received with OrderId 7e7b6ac4-ce8e-4cd6-9d4f-17ab0e15f63f
+2019-04-15 17:59:47.524 INFO  OrderSaga Process with OrderId 7e7b6ac4-ce8e-4cd6-9d4f-17ab0e15f63f
+2019-04-15 17:59:47.539 INFO  OrderSaga CompleteOrder received with OrderId 7e7b6ac4-ce8e-4cd6-9d4f-17ab0e15f63f
+2019-04-15 17:59:47.654 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 03e742bc-5b32-4420-ba58-aa3100106c43
+2019-04-15 17:59:47.668 INFO  OrderSaga StartOrder received with OrderId 150cb933-daa0-41d0-8a52-cd791b80ff64
+2019-04-15 17:59:47.683 INFO  OrderSaga Process with OrderId 150cb933-daa0-41d0-8a52-cd791b80ff64
+2019-04-15 17:59:47.697 INFO  OrderSaga CompleteOrder received with OrderId 150cb933-daa0-41d0-8a52-cd791b80ff64
+2019-04-15 17:59:47.806 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8ca9baa1-dc49-4a27-b020-aa3100106c6f
+2019-04-15 17:59:47.812 INFO  OrderSaga StartOrder received with OrderId 1c831aac-a02a-4195-abe9-35d562ea7ce4
+2019-04-15 17:59:47.823 INFO  OrderSaga Process with OrderId 1c831aac-a02a-4195-abe9-35d562ea7ce4
+2019-04-15 17:59:47.836 INFO  OrderSaga CompleteOrder received with OrderId 1c831aac-a02a-4195-abe9-35d562ea7ce4
+2019-04-15 17:59:47.981 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2b5355c6-b786-4141-95be-aa3100106ca3
+2019-04-15 17:59:47.988 INFO  OrderSaga StartOrder received with OrderId a4c9297b-39f0-4600-aa92-aa113c0f8b0b
+2019-04-15 17:59:48.004 INFO  OrderSaga Process with OrderId a4c9297b-39f0-4600-aa92-aa113c0f8b0b
+2019-04-15 17:59:48.027 INFO  OrderSaga CompleteOrder received with OrderId a4c9297b-39f0-4600-aa92-aa113c0f8b0b
+2019-04-15 17:59:48.135 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: eb412f1c-a50e-47f2-83f6-aa3100106cd0
+2019-04-15 17:59:48.143 INFO  OrderSaga StartOrder received with OrderId de87bbce-4eae-478c-949c-185d42eda57a
+2019-04-15 17:59:48.157 INFO  OrderSaga Process with OrderId de87bbce-4eae-478c-949c-185d42eda57a
+2019-04-15 17:59:48.169 INFO  OrderSaga CompleteOrder received with OrderId de87bbce-4eae-478c-949c-185d42eda57a
+2019-04-15 17:59:48.295 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: a6a6dc4a-0c48-416c-94b9-aa3100106d03
+2019-04-15 17:59:48.304 INFO  OrderSaga StartOrder received with OrderId 7e8de245-5fbb-471d-86da-c4c3ed92345a
+2019-04-15 17:59:48.317 INFO  OrderSaga Process with OrderId 7e8de245-5fbb-471d-86da-c4c3ed92345a
+2019-04-15 17:59:48.340 INFO  OrderSaga CompleteOrder received with OrderId 7e8de245-5fbb-471d-86da-c4c3ed92345a
+2019-04-15 17:59:48.461 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: fcd88ba7-69f5-4a75-917a-aa3100106d36
+2019-04-15 17:59:48.467 INFO  OrderSaga StartOrder received with OrderId ff9a7c70-a846-430c-a74e-d381295b0f67
+2019-04-15 17:59:48.482 INFO  OrderSaga Process with OrderId ff9a7c70-a846-430c-a74e-d381295b0f67
+2019-04-15 17:59:48.495 INFO  OrderSaga CompleteOrder received with OrderId ff9a7c70-a846-430c-a74e-d381295b0f67
+2019-04-15 17:59:48.631 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5240a8ae-2915-4e6c-86b4-aa3100106d68
+2019-04-15 17:59:48.636 INFO  OrderSaga StartOrder received with OrderId 146d9cc6-a2af-45d5-b95c-df64f8c7b2a2
+2019-04-15 17:59:48.647 INFO  OrderSaga Process with OrderId 146d9cc6-a2af-45d5-b95c-df64f8c7b2a2
+2019-04-15 17:59:48.661 INFO  OrderSaga CompleteOrder received with OrderId 146d9cc6-a2af-45d5-b95c-df64f8c7b2a2
+2019-04-15 17:59:48.807 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f7f74077-5599-4174-ac63-aa3100106d9b
+2019-04-15 17:59:48.814 INFO  OrderSaga StartOrder received with OrderId c2d804c4-07bc-4731-960f-c7047f415f0a
+2019-04-15 17:59:48.824 INFO  OrderSaga Process with OrderId c2d804c4-07bc-4731-960f-c7047f415f0a
+2019-04-15 17:59:48.837 INFO  OrderSaga CompleteOrder received with OrderId c2d804c4-07bc-4731-960f-c7047f415f0a
+2019-04-15 17:59:48.960 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 01dcc148-95df-484c-b549-aa3100106dcd
+2019-04-15 17:59:48.974 INFO  OrderSaga StartOrder received with OrderId f3584be8-8215-4b76-9037-85ba9998e048
+2019-04-15 17:59:48.995 INFO  OrderSaga Process with OrderId f3584be8-8215-4b76-9037-85ba9998e048
+2019-04-15 17:59:49.009 INFO  OrderSaga CompleteOrder received with OrderId f3584be8-8215-4b76-9037-85ba9998e048
+2019-04-15 17:59:49.120 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 13efd120-40f6-471c-93c4-aa3100106dfb
+2019-04-15 17:59:49.126 INFO  OrderSaga StartOrder received with OrderId 1d954449-ac8c-4f60-b7d2-9c16dd294a6c
+2019-04-15 17:59:49.137 INFO  OrderSaga Process with OrderId 1d954449-ac8c-4f60-b7d2-9c16dd294a6c
+2019-04-15 17:59:49.151 INFO  OrderSaga CompleteOrder received with OrderId 1d954449-ac8c-4f60-b7d2-9c16dd294a6c
+2019-04-15 17:59:49.309 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d9e4102c-72d6-4a01-be9a-aa3100106e33
+2019-04-15 17:59:49.325 INFO  OrderSaga StartOrder received with OrderId 7960d70c-00aa-4dbd-899e-c543e9b998e1
+2019-04-15 17:59:49.340 INFO  OrderSaga Process with OrderId 7960d70c-00aa-4dbd-899e-c543e9b998e1
+2019-04-15 17:59:49.354 INFO  OrderSaga CompleteOrder received with OrderId 7960d70c-00aa-4dbd-899e-c543e9b998e1
+2019-04-15 17:59:49.467 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8e160a8b-e974-4302-94f6-aa3100106e5f
+2019-04-15 17:59:49.483 INFO  OrderSaga StartOrder received with OrderId 1af30896-fd25-4307-a811-038921ffccf7
+2019-04-15 17:59:49.506 INFO  OrderSaga Process with OrderId 1af30896-fd25-4307-a811-038921ffccf7
+2019-04-15 17:59:49.521 INFO  OrderSaga CompleteOrder received with OrderId 1af30896-fd25-4307-a811-038921ffccf7
+2019-04-15 17:59:49.598 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: fd2a9967-16c6-4951-8872-aa3100106e8b
+2019-04-15 17:59:49.603 INFO  OrderSaga StartOrder received with OrderId 09d1f622-e44b-4a2a-99ad-5a1aa0db2156
+2019-04-15 17:59:49.614 INFO  OrderSaga Process with OrderId 09d1f622-e44b-4a2a-99ad-5a1aa0db2156
+2019-04-15 17:59:49.637 INFO  OrderSaga CompleteOrder received with OrderId 09d1f622-e44b-4a2a-99ad-5a1aa0db2156
+2019-04-15 17:59:53.490 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-15 17:59:53.538 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-15 21:11:42.982 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:11:43.291 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:11:53.024 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 58ebaffe-e9d9-413a-b31b-aa3100452e47
+2019-04-15 21:11:53.141 INFO  OrderSaga StartOrder received with OrderId a624dc6f-6180-4203-86c5-0a568575830e
+2019-04-15 21:12:04.829 INFO  OrderSaga Process with OrderId a624dc6f-6180-4203-86c5-0a568575830e
+2019-04-15 21:12:04.859 INFO  OrderSaga CompleteOrder received with OrderId a624dc6f-6180-4203-86c5-0a568575830e
+2019-04-15 21:12:13.500 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c2407a7d-bd12-4577-a969-aa310045468a
+2019-04-15 21:12:13.513 INFO  OrderSaga StartOrder received with OrderId 71d55cd6-0798-4a69-963b-70df5281104a
+2019-04-15 21:12:14.071 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 038a0fdf-bf74-462e-98a7-aa3100454739
+2019-04-15 21:12:14.083 INFO  OrderSaga StartOrder received with OrderId 95810253-c562-4183-821e-4d323fb35fa8
+2019-04-15 21:12:15.205 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9b50786d-572a-41b9-92a5-aa310045488d
+2019-04-15 21:12:15.220 INFO  OrderSaga StartOrder received with OrderId 319ead43-984f-44fa-b527-de42d027cbd7
+2019-04-15 21:12:24.940 INFO  OrderSaga Process with OrderId 71d55cd6-0798-4a69-963b-70df5281104a
+2019-04-15 21:12:24.960 INFO  OrderSaga CompleteOrder received with OrderId 71d55cd6-0798-4a69-963b-70df5281104a
+2019-04-15 21:12:25.943 INFO  OrderSaga Process with OrderId 95810253-c562-4183-821e-4d323fb35fa8
+2019-04-15 21:12:25.973 INFO  OrderSaga CompleteOrder received with OrderId 95810253-c562-4183-821e-4d323fb35fa8
+2019-04-15 21:12:26.970 INFO  OrderSaga Process with OrderId 319ead43-984f-44fa-b527-de42d027cbd7
+2019-04-15 21:12:26.997 INFO  OrderSaga CompleteOrder received with OrderId 319ead43-984f-44fa-b527-de42d027cbd7
+2019-04-15 21:13:47.474 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:13:47.793 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:13:53.623 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4df37149-c356-4df8-8567-aa310045bbaa
+2019-04-15 21:13:53.742 INFO  OrderSaga StartOrder received with OrderId 965188b5-be32-4321-9d17-effbf1cc7b30
+2019-04-15 21:14:04.274 INFO  OrderSaga Process with OrderId 965188b5-be32-4321-9d17-effbf1cc7b30
+2019-04-15 21:14:15.301 INFO  OrderSaga CompleteOrder received with OrderId 965188b5-be32-4321-9d17-effbf1cc7b30
+2019-04-15 21:14:36.292 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 923c94dd-03fa-45ac-a626-aa310045eddf
+2019-04-15 21:14:36.300 INFO  OrderSaga StartOrder received with OrderId 06d916e8-d59e-48b3-aa8a-617877e15463
+2019-04-15 21:14:47.530 INFO  OrderSaga Process with OrderId 06d916e8-d59e-48b3-aa8a-617877e15463
+2019-04-15 21:14:58.602 INFO  OrderSaga CompleteOrder received with OrderId 06d916e8-d59e-48b3-aa8a-617877e15463
+2019-04-15 21:16:32.286 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:16:32.610 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:16:38.437 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 17e5bb55-02c3-4aac-85ec-aa3100467ccc
+2019-04-15 21:16:38.557 INFO  OrderSaga StartOrder received with OrderId bcf63847-87db-412e-b128-4a1f86d478e0
+2019-04-15 21:16:38.613 INFO  OrderSaga Requesting a CancelOrder that will be executed in 30 seconds.
+                    Stop the endpoint now to see the timeout data in the delayed directory
+                            E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\.delayed\20190416041708
+2019-04-15 21:16:49.096 INFO  OrderSaga Process with OrderId bcf63847-87db-412e-b128-4a1f86d478e0
+2019-04-15 21:17:00.138 INFO  OrderSaga CompleteOrder received with OrderId bcf63847-87db-412e-b128-4a1f86d478e0
+2019-04-15 21:17:09.200 INFO  NServiceBus.SagaPersistenceBehavior No saga found for timeout message 714792e1-1137-4a25-b817-aa3100467d42, ignoring since the saga has been marked as complete before the timeout fired
+2019-04-15 21:18:46.045 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:18:46.378 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:18:49.858 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1088038d-d4d5-45e2-90bc-aa31004716c9
+2019-04-15 21:18:49.981 INFO  OrderSaga StartOrder received with OrderId a8a8908b-29aa-4b66-a45d-03085bea763e
+2019-04-15 21:18:50.037 INFO  OrderSaga Requesting a CancelOrder that will be executed in 30 seconds.
+                    Stop the endpoint now to see the timeout data in the delayed directory
+                            E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\.delayed\20190416041910
+2019-04-15 21:19:01.910 INFO  OrderSaga Process with OrderId a8a8908b-29aa-4b66-a45d-03085bea763e
+2019-04-15 21:19:11.939 INFO  OrderSaga CompleteOrder not received soon enough OrderId a8a8908b-29aa-4b66-a45d-03085bea763e. Calling MarkAsComplete
+2019-04-15 21:19:42.170 INFO  NServiceBus.InvokeSagaNotFoundBehavior Could not find a started saga for 'CompleteOrder' message type. Going to invoke SagaNotFoundHandlers.
+2019-04-15 21:34:54.926 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:34:55.236 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:34:59.371 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 711b4cd9-5c77-43f5-be0b-aa31004b86f2
+2019-04-15 21:34:59.486 INFO  OrderSaga StartOrder received with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:35:10.694 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:10.711 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:10.733 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:10.763 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:10.795 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:10.814 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' after a delay of 00:00:10 because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.722 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.770 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.810 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.866 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.911 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:35:21.948 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message 'afd396d0-0eb2-4d25-bf67-aa31004b8759' after a delay of 00:00:20 because of an exception:
+System.Exception: Message type ProcessOrder is handled by saga OrderSaga, but the saga does not contain a property mapping or custom saga finder to map the message to saga data. Consider adding a mapping in the saga's ConfigureHowToFindSaga method.
+   at NServiceBus.SagaPersistenceBehavior.Invoke(IInvokeHandlerContext context, Func`2 next)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 50
+   at NServiceBus.InvokeSagaNotFoundBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Sagas\InvokeSagaNotFoundBehavior.cs:line 18
+   at NServiceBus.DeserializeLogicalMessagesConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.Invoke(ITransportReceiveContext context, Func`2 next) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in C:\BuildAgent\work\ed946b9f0e4aae01\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 279
+2019-04-15 21:54:48.738 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:54:49.064 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:54:50.601 INFO  OrderSaga Process with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:54:54.859 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 67bbde67-0f82-41f6-bc50-aa310050fffe
+2019-04-15 21:54:54.903 INFO  OrderSaga StartOrder received with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:55:05.522 INFO  OrderSaga Process with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:55:31.710 INFO  OrderSaga CompleteOrder received with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:55:44.797 INFO  OrderSaga Process with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:55:46.825 INFO  OrderSaga CompleteOrder received with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:55:59.933 INFO  OrderSaga Process with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:56:25.126 INFO  OrderSaga CompleteOrder received with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:56:57.641 INFO  OrderSaga CompleteOrder received with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:57:16.139 INFO  OrderSaga Process with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:57:27.201 INFO  OrderSaga Process with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:58:31.032 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 21:58:31.340 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 21:58:32.870 INFO  OrderSaga CompleteOrder received with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:59:02.564 INFO  OrderSaga CompleteOrder received with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:59:06.833 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5b4253b4-813a-4171-9ac7-aa3100520496
+2019-04-15 21:59:06.895 INFO  OrderSaga StartOrder received with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 21:59:13.884 INFO  OrderSaga Process with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:59:17.922 INFO  OrderSaga Process with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 21:59:17.945 INFO  OrderSaga Process with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:59:19.952 INFO  OrderSaga CompleteOrder received with OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:59:19.962 INFO  OrderSaga Tried 3 time to complete OrderId ac387535-0b46-4c73-b4d9-cc584db7253f
+2019-04-15 21:59:23.973 INFO  OrderSaga CompleteOrder received with OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:59:23.985 INFO  OrderSaga Tried 3 time to complete OrderId 4e05b712-54bb-4b61-b599-94f1405dd9d7
+2019-04-15 21:59:24.014 INFO  OrderSaga CompleteOrder received with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:00:15.889 INFO  OrderSaga Process with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:00:21.951 INFO  OrderSaga CompleteOrder received with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:00:35.022 INFO  OrderSaga Process with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:00:41.076 INFO  OrderSaga CompleteOrder received with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:00:54.169 INFO  OrderSaga Process with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:01:00.196 INFO  OrderSaga CompleteOrder received with OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:01:00.204 INFO  OrderSaga Tried 3 time to complete OrderId 29913b5e-9446-4bea-ad18-7d99005815e0
+2019-04-15 22:05:59.464 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:05:59.769 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:06:04.437 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-15 22:06:04.490 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-15 22:06:32.640 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:06:32.943 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:06:33.335 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 317b93b2-ac56-4a82-82cd-aa31005420b7
+2019-04-15 22:06:33.451 INFO  OrderSaga StartOrder received with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:06:46.475 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:06:46.784 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:06:48.311 INFO  OrderSaga Process with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:06:54.146 INFO  OrderSaga Last step CompleteOrder received with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:06:56.189 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 27ab0182-66e6-4aab-82a9-aa3100544b2a
+2019-04-15 22:06:56.258 INFO  OrderSaga StartOrder received with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:07.249 INFO  OrderSaga Process with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:07.301 INFO  OrderSaga Process with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:13.332 INFO  OrderSaga Last step CompleteOrder received with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:15.372 INFO  OrderSaga Last step CompleteOrder received with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:26.421 INFO  OrderSaga Process with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:28.442 INFO  OrderSaga Process with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:32.467 INFO  OrderSaga Last step CompleteOrder received with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:34.506 INFO  OrderSaga Last step CompleteOrder received with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:45.565 INFO  OrderSaga Process with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:47.595 INFO  OrderSaga Process with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:51.626 INFO  OrderSaga Last step CompleteOrder received with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:07:53.654 INFO  OrderSaga Last step CompleteOrder received with OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:53.658 INFO  OrderSaga Tried 3 time to complete OrderId 11e3f407-9aa7-4998-9bcb-df81353db134
+2019-04-15 22:07:55.684 INFO  OrderSaga CompleteOrder not received soon enough OrderId 11e3f407-9aa7-4998-9bcb-df81353db134. Calling MarkAsComplete
+2019-04-15 22:08:04.758 INFO  OrderSaga Process with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:08:10.802 INFO  OrderSaga Last step CompleteOrder received with OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:08:10.818 INFO  OrderSaga Tried 3 time to complete OrderId 15107090-64f7-47a0-a221-9c798627da3c
+2019-04-15 22:08:12.824 INFO  OrderSaga CompleteOrder not received soon enough OrderId 15107090-64f7-47a0-a221-9c798627da3c. Calling MarkAsComplete
+2019-04-15 22:10:52.101 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:10:52.414 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:11:05.772 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 3826f405-454b-44df-a6a1-aa31005571b8
+2019-04-15 22:11:05.887 INFO  OrderSaga StartOrder received with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:17.005 INFO  OrderSaga Process with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:23.963 INFO  OrderSaga Last step CompleteOrder received with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:38.270 INFO  OrderSaga Last step CompleteOrder received with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:46.346 INFO  OrderSaga Last step CompleteOrder received with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:54.407 INFO  OrderSaga Last step CompleteOrder received with OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:54.419 INFO  OrderSaga Tried 3 time to complete OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135
+2019-04-15 22:11:56.440 INFO  OrderSaga CompleteOrder not received soon enough OrderId b10b2c78-5ef4-41be-94c3-2ace3cbc7135. Calling MarkAsComplete
+2019-04-15 22:13:08.793 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:13:09.100 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:13:22.182 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 541eb5e9-d70f-47ec-acc5-aa3100561193
+2019-04-15 22:13:22.295 INFO  OrderSaga StartOrder received with OrderId 92c76292-5865-4952-a213-c6c20e59af27
+2019-04-15 22:13:33.627 INFO  OrderSaga Process with OrderId 92c76292-5865-4952-a213-c6c20e59af27
+2019-04-15 22:14:03.831 INFO  OrderSaga Tried 3 time to complete OrderId 92c76292-5865-4952-a213-c6c20e59af27
+2019-04-15 22:14:05.855 INFO  OrderSaga CompleteOrder not received soon enough OrderId 92c76292-5865-4952-a213-c6c20e59af27. Calling MarkAsComplete
+2019-04-15 22:22:27.845 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:22:28.154 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:22:35.867 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 41d28b76-ce72-4ac8-98e8-aa3100589a69
+2019-04-15 22:22:35.983 INFO  OrderSaga StartOrder received with OrderId 8781127b-3640-4f84-9178-ce5e84bbb584
+2019-04-15 22:22:47.654 INFO  OrderSaga Process with OrderId 8781127b-3640-4f84-9178-ce5e84bbb584
+2019-04-15 22:22:53.639 INFO  OrderSaga Last step CompleteOrder received with OrderId 8781127b-3640-4f84-9178-ce5e84bbb584
+2019-04-15 22:23:02.078 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8d6b18e3-a88b-49fc-b5ad-aa310058b957
+2019-04-15 22:23:02.086 INFO  OrderSaga StartOrder received with OrderId fdb22e05-ee00-472a-86df-c7211c2d2072
+2019-04-15 22:23:13.787 INFO  OrderSaga Process with OrderId fdb22e05-ee00-472a-86df-c7211c2d2072
+2019-04-15 22:23:19.835 INFO  OrderSaga Last step CompleteOrder received with OrderId fdb22e05-ee00-472a-86df-c7211c2d2072
+2019-04-15 22:23:23.202 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2e9f7a50-4073-427f-ae06-aa310058d21a
+2019-04-15 22:23:23.211 INFO  OrderSaga StartOrder received with OrderId 6504e28e-bd9c-4fb5-bd40-cea4740e9e8b
+2019-04-15 22:23:34.938 INFO  OrderSaga Process with OrderId 6504e28e-bd9c-4fb5-bd40-cea4740e9e8b
+2019-04-15 22:23:40.973 INFO  OrderSaga Last step CompleteOrder received with OrderId 6504e28e-bd9c-4fb5-bd40-cea4740e9e8b
+2019-04-15 22:25:51.655 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:25:51.978 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:25:57.240 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 3f3295fe-d6fb-4134-91fa-aa3100598663
+2019-04-15 22:25:57.361 INFO  OrderSaga StartOrder received with OrderId d7c8244a-5802-4deb-9e43-1087cd2fb65a
+2019-04-15 22:26:08.465 INFO  OrderSaga Process with OrderId d7c8244a-5802-4deb-9e43-1087cd2fb65a
+2019-04-15 22:27:41.722 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-15 22:27:43.556 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-15 22:30:52.286 INFO  DefaultFactory Logging to 'E:\Development\NServiceBusSaga\JasDev.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-15 22:30:52.593 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-13'.
+
+2019-04-15 22:30:54.135 INFO  OrderSaga Tried 3 time fail to complete OrderId d7c8244a-5802-4deb-9e43-1087cd2fb65a
+2019-04-15 22:30:56.964 INFO  OrderSaga CompleteOrder not received soon enough OrderId d7c8244a-5802-4deb-9e43-1087cd2fb65a. Calling MarkAsComplete
+2019-04-15 22:31:13.838 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c435a4b3-93a0-4001-a310-aa31005af98a
+2019-04-15 22:31:13.880 INFO  OrderSaga StartOrder received with OrderId e4365eb0-75a2-476e-a543-e02840dffd45
+2019-04-15 22:31:24.097 INFO  OrderSaga Process with OrderId e4365eb0-75a2-476e-a543-e02840dffd45
+2019-04-15 22:31:30.145 INFO  OrderSaga Last step CompleteOrder received with OrderId e4365eb0-75a2-476e-a543-e02840dffd45
+2019-04-15 22:31:48.075 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d6519dd2-7dd3-436c-a6f3-aa31005b21bc
+2019-04-15 22:31:48.081 INFO  OrderSaga StartOrder received with OrderId a6770b52-f440-48f7-aff4-7bf642192d6b
+2019-04-15 22:31:48.248 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ffcb7fb8-ea5c-4970-a189-aa31005b21f5
+2019-04-15 22:31:48.259 INFO  OrderSaga StartOrder received with OrderId 076d007a-9bf5-4b09-a29a-c506f1af321b
+2019-04-15 22:31:48.407 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: fc227022-4eec-41ab-bd09-aa31005b2223
+2019-04-15 22:31:48.421 INFO  OrderSaga StartOrder received with OrderId f50c24a4-3167-4e00-a7b7-1c68fa35a31d
+2019-04-15 22:31:48.576 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ed7477d5-dc8b-468d-b891-aa31005b2255
+2019-04-15 22:31:48.591 INFO  OrderSaga StartOrder received with OrderId fdd0462d-e3e4-4d0e-9d06-1af0ce871d6e
+2019-04-15 22:31:48.731 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8081e1e7-c1f0-458f-9fc1-aa31005b2284
+2019-04-15 22:31:48.742 INFO  OrderSaga StartOrder received with OrderId 4caf4a8d-6841-462d-bebe-9774e47a2cd3
+2019-04-15 22:31:48.867 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 8b2fa2a9-20b5-4e63-801f-aa31005b22ad
+2019-04-15 22:31:48.886 INFO  OrderSaga StartOrder received with OrderId bde48920-82e2-485b-8747-77c839133970
+2019-04-15 22:31:49.030 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cd17b7c2-7167-4294-bcac-aa31005b22e0
+2019-04-15 22:31:49.041 INFO  OrderSaga StartOrder received with OrderId 193cf0ec-6b69-4559-b853-9b5a7746b0f9
+2019-04-15 22:31:49.199 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 4697f3f6-a850-4838-b26a-aa31005b2312
+2019-04-15 22:31:49.215 INFO  OrderSaga StartOrder received with OrderId 959fb309-baf6-4106-9162-36541f7a9861
+2019-04-15 22:31:49.360 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c9b77f23-c8a8-4f1c-88ac-aa31005b2342
+2019-04-15 22:31:49.373 INFO  OrderSaga StartOrder received with OrderId 425f22f6-3b54-49fc-bd21-485f16b157a9
+2019-04-15 22:31:49.531 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 14c9dc93-9a1c-4027-bb3f-aa31005b2376
+2019-04-15 22:31:49.546 INFO  OrderSaga StartOrder received with OrderId 1815e632-5d72-41d6-a2e2-f6a2b5abc82b
+2019-04-15 22:31:49.690 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: c1948de1-1be4-4031-9fc2-aa31005b23a4
+2019-04-15 22:31:49.709 INFO  OrderSaga StartOrder received with OrderId 50fcf564-169e-41f0-b7bd-79b91f1b6c8a
+2019-04-15 22:31:49.843 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: eb68cf6d-a0cc-428e-94e0-aa31005b23d1
+2019-04-15 22:31:49.856 INFO  OrderSaga StartOrder received with OrderId 80bb38c6-a44c-404b-8ebb-32dafdc8f66c
+2019-04-15 22:31:50.004 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 985e756a-df36-47ce-b179-aa31005b2404
+2019-04-15 22:31:50.022 INFO  OrderSaga StartOrder received with OrderId 46c75ce7-d832-4016-8b52-a3e09bf87069
+2019-04-15 22:31:50.188 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: f9ffcd1d-af6d-47e0-8592-aa31005b2436
+2019-04-15 22:31:50.205 INFO  OrderSaga StartOrder received with OrderId 0f69d69c-9aad-4faa-a8ec-5aa2e159d27b
+2019-04-15 22:31:50.341 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2dd51ff9-c16a-4979-9321-aa31005b2468
+2019-04-15 22:31:50.361 INFO  OrderSaga StartOrder received with OrderId 9b84e9b6-32ef-4939-b7ec-8725d98b24ff
+2019-04-15 22:31:50.501 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1be0d6a4-0e4d-4db2-b490-aa31005b2499
+2019-04-15 22:31:50.513 INFO  OrderSaga StartOrder received with OrderId 62502528-fa89-45de-b3ce-13998724e3eb
+2019-04-15 22:31:50.647 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d6ade534-c0e3-4929-89b4-aa31005b24c8
+2019-04-15 22:31:50.655 INFO  OrderSaga StartOrder received with OrderId 1868b372-fa9d-440c-b42b-d19de76a60dd
+2019-04-15 22:31:50.824 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2d4a0fd7-6779-44a2-b261-aa31005b24fc
+2019-04-15 22:31:50.834 INFO  OrderSaga StartOrder received with OrderId ef7a0c93-8f84-4a39-ac9d-d0b2c059e9eb
+2019-04-15 22:31:50.999 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 052f667e-acb2-45f5-a047-aa31005b252e
+2019-04-15 22:31:51.016 INFO  OrderSaga StartOrder received with OrderId 7414cc5e-3867-4a1d-ad36-09f9b01722b8
+2019-04-15 22:31:51.151 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 9dacd833-40a1-4a55-ab0f-aa31005b255b
+2019-04-15 22:31:51.165 INFO  OrderSaga StartOrder received with OrderId 8bdc1d74-5a50-451b-bafd-ffbab7a9cd5d
+2019-04-15 22:31:51.317 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d0914d3d-4d9a-47b6-b967-aa31005b258f
+2019-04-15 22:31:51.326 INFO  OrderSaga StartOrder received with OrderId 6c0f39c7-97ea-4e37-bc87-603f60486efb
+2019-04-15 22:31:51.497 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 6b4c3691-f7e8-4797-9ff5-aa31005b25c3
+2019-04-15 22:31:51.517 INFO  OrderSaga StartOrder received with OrderId f5892d75-d8ce-488f-930b-831d9e385c76
+2019-04-15 22:31:51.686 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: fdb6de5f-1c86-4e9f-9ff3-aa31005b25fa
+2019-04-15 22:31:51.705 INFO  OrderSaga StartOrder received with OrderId 800c634d-6c87-4872-a752-4f975383ea85
+2019-04-15 22:31:51.825 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 554bd51d-d8bd-4c2b-a7a8-aa31005b2625
+2019-04-15 22:31:51.837 INFO  OrderSaga StartOrder received with OrderId 5f8961cb-9d35-4706-bf9a-fb2acf5add22
+2019-04-15 22:31:51.992 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: b48fbc7a-8558-4a7f-81cb-aa31005b2657
+2019-04-15 22:31:52.008 INFO  OrderSaga StartOrder received with OrderId 6f93d1b1-80a6-4dc9-b230-18288bb71765
+2019-04-15 22:31:52.134 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e0869da7-639b-45a9-9a86-aa31005b2683
+2019-04-15 22:31:52.154 INFO  OrderSaga StartOrder received with OrderId 068c4d56-710b-4805-bd94-13ac269bd05d
+2019-04-15 22:31:52.299 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 38038180-6661-4360-83ba-aa31005b26b2
+2019-04-15 22:31:52.312 INFO  OrderSaga StartOrder received with OrderId 1f99ac5a-1f57-46f6-8eb9-23a27965599e
+2019-04-15 22:31:52.470 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 71368c7f-58c0-48e1-a134-aa31005b26e2
+2019-04-15 22:31:52.489 INFO  OrderSaga StartOrder received with OrderId 940b6b26-ec71-4280-9fd3-20edf66faaa4
+2019-04-15 22:31:52.607 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 47b14955-c7c0-4d54-81c1-aa31005b2710
+2019-04-15 22:31:52.619 INFO  OrderSaga StartOrder received with OrderId 820e83ea-7544-4f5a-b02a-46e535adc9db
+2019-04-15 22:31:52.745 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0e75b19f-04a6-44c3-bbf3-aa31005b273b
+2019-04-15 22:31:52.759 INFO  OrderSaga StartOrder received with OrderId f5e70816-2f35-4c27-aba5-f9452007d1a5
+2019-04-15 22:31:52.887 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 51b8e1a3-12e8-407b-80bf-aa31005b2765
+2019-04-15 22:31:52.897 INFO  OrderSaga StartOrder received with OrderId a6373862-e697-480c-b320-567ab9b3443a
+2019-04-15 22:31:53.027 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7651eb2d-54d7-4d01-bc1e-aa31005b278f
+2019-04-15 22:31:53.053 INFO  OrderSaga StartOrder received with OrderId 9c14d81e-e8bb-4252-a308-110f635625f0
+2019-04-15 22:31:53.169 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0731eea7-c2a1-491c-bd7a-aa31005b27b9
+2019-04-15 22:31:53.182 INFO  OrderSaga StartOrder received with OrderId 733cbe8e-bb73-4c87-a5d9-6eecd8ffb562
+2019-04-15 22:31:53.344 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2b353697-726e-4e5c-866e-aa31005b27ea
+2019-04-15 22:31:53.357 INFO  OrderSaga StartOrder received with OrderId f058d11f-b6f3-4cf1-a827-4e3a5095f124
+2019-04-15 22:31:53.533 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 221afea0-b1d2-433a-8b1d-aa31005b281f
+2019-04-15 22:31:53.546 INFO  OrderSaga StartOrder received with OrderId 25a915e7-d273-4fd1-807f-03168caef273
+2019-04-15 22:31:53.605 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 04cddda3-5de3-4aab-8b44-aa31005b2840
+2019-04-15 22:31:53.610 INFO  OrderSaga StartOrder received with OrderId b70b46f0-6b79-40e9-82b3-4540cae5a978
+2019-04-15 22:31:53.745 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: baeda3fc-10c4-40c2-87c3-aa31005b2865
+2019-04-15 22:31:53.750 INFO  OrderSaga StartOrder received with OrderId fe6c0eb4-6558-4abd-b2c6-8b2d46aaf2c3
+2019-04-15 22:31:53.883 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cb71b88e-005a-4dcb-978b-aa31005b2891
+2019-04-15 22:31:53.888 INFO  OrderSaga StartOrder received with OrderId 59727bc7-064f-4c2a-97fb-9d80ccfe605d
+2019-04-15 22:31:54.028 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 440edb25-de93-4f9d-a8d8-aa31005b28b9
+2019-04-15 22:31:54.033 INFO  OrderSaga StartOrder received with OrderId a6312c87-2dad-4947-a2cd-85f0540543af
+2019-04-15 22:31:54.163 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d5af3256-0332-4490-8efc-aa31005b28e7
+2019-04-15 22:31:54.169 INFO  OrderSaga StartOrder received with OrderId 6118d57b-14d8-425b-998b-7929c33f67e1
+2019-04-15 22:31:54.325 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 0bfc6bde-0668-4ace-85ac-aa31005b2912
+2019-04-15 22:31:54.331 INFO  OrderSaga StartOrder received with OrderId 3bf4b6ae-c178-481b-8e0f-2ed74a51ff29
+2019-04-15 22:31:54.465 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d0a265a4-8337-40d5-adea-aa31005b293e
+2019-04-15 22:31:54.472 INFO  OrderSaga StartOrder received with OrderId eeae9d6c-0b18-4e0b-8d5f-2da08d37dc42
+2019-04-15 22:31:54.635 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: ee872857-db0d-44b4-b094-aa31005b2972
+2019-04-15 22:31:54.643 INFO  OrderSaga StartOrder received with OrderId 8219d43d-2e58-4240-a177-e8ab1b61fcfe
+2019-04-15 22:31:54.784 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 1e62a37f-c7ae-4cc4-87f2-aa31005b29a2
+2019-04-15 22:31:54.789 INFO  OrderSaga StartOrder received with OrderId 73799249-5b11-4c0e-b070-1e83c288f1ef
+2019-04-15 22:31:54.928 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d863ccd0-522f-4f79-bbe8-aa31005b29cb
+2019-04-15 22:31:54.934 INFO  OrderSaga StartOrder received with OrderId 0c812e15-964d-4c76-afcf-f8bef3984b99
+2019-04-15 22:31:55.098 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: e24c33ce-37d4-40f5-96c3-aa31005b29fd
+2019-04-15 22:31:55.104 INFO  OrderSaga StartOrder received with OrderId 51d6e548-43cb-4926-b1a0-81cda5c89996
+2019-04-15 22:31:55.258 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 7056d1b5-3cbb-4790-8340-aa31005b2a2e
+2019-04-15 22:31:55.263 INFO  OrderSaga StartOrder received with OrderId b79bb9a7-1e40-425f-9b32-365eba83c80f
+2019-04-15 22:31:55.416 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 503caa6d-bd01-4787-bc9f-aa31005b2a5e
+2019-04-15 22:31:55.422 INFO  OrderSaga StartOrder received with OrderId f9e649c5-9867-4467-b5e2-19cd1846bd57
+2019-04-15 22:31:55.575 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'StartOrder, JasDevSender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 693b7a2c-332b-4449-b2ea-aa31005b2a8b
+2019-04-15 22:31:55.581 INFO  OrderSaga StartOrder received with OrderId 4ad23868-d8b9-4677-998f-57cde25f6830
+2019-04-15 22:31:59.329 INFO  OrderSaga Process with OrderId 076d007a-9bf5-4b09-a29a-c506f1af321b
+2019-04-15 22:31:59.350 INFO  OrderSaga Process with OrderId bde48920-82e2-485b-8747-77c839133970
+2019-04-15 22:31:59.370 INFO  OrderSaga Process with OrderId a6770b52-f440-48f7-aff4-7bf642192d6b
+2019-04-15 22:31:59.390 INFO  OrderSaga Process with OrderId f50c24a4-3167-4e00-a7b7-1c68fa35a31d
+2019-04-15 22:31:59.411 INFO  OrderSaga Process with OrderId 4caf4a8d-6841-462d-bebe-9774e47a2cd3
+2019-04-15 22:31:59.431 INFO  OrderSaga Process with OrderId fdd0462d-e3e4-4d0e-9d06-1af0ce871d6e
+2019-04-15 22:32:00.362 INFO  OrderSaga Process with OrderId 959fb309-baf6-4106-9162-36541f7a9861
+2019-04-15 22:32:00.399 INFO  OrderSaga Process with OrderId 50fcf564-169e-41f0-b7bd-79b91f1b6c8a
+2019-04-15 22:32:00.414 INFO  OrderSaga Process with OrderId 1815e632-5d72-41d6-a2e2-f6a2b5abc82b
+2019-04-15 22:32:00.426 INFO  OrderSaga Process with OrderId 193cf0ec-6b69-4559-b853-9b5a7746b0f9
+2019-04-15 22:32:00.437 INFO  OrderSaga Process with OrderId 80bb38c6-a44c-404b-8ebb-32dafdc8f66c
+2019-04-15 22:32:00.449 INFO  OrderSaga Process with OrderId 425f22f6-3b54-49fc-bd21-485f16b157a9
+2019-04-15 22:32:01.378 INFO  OrderSaga Process with OrderId 0f69d69c-9aad-4faa-a8ec-5aa2e159d27b
+2019-04-15 22:32:01.403 INFO  OrderSaga Process with OrderId 9b84e9b6-32ef-4939-b7ec-8725d98b24ff
+2019-04-15 22:32:01.421 INFO  OrderSaga Process with OrderId ef7a0c93-8f84-4a39-ac9d-d0b2c059e9eb
+2019-04-15 22:32:01.430 INFO  OrderSaga Process with OrderId 46c75ce7-d832-4016-8b52-a3e09bf87069
+2019-04-15 22:32:01.440 INFO  OrderSaga Process with OrderId 1868b372-fa9d-440c-b42b-d19de76a60dd
+2019-04-15 22:32:01.449 INFO  OrderSaga Process with OrderId 62502528-fa89-45de-b3ce-13998724e3eb
+2019-04-15 22:32:02.407 INFO  OrderSaga Process with OrderId 800c634d-6c87-4872-a752-4f975383ea85
+2019-04-15 22:32:02.429 INFO  OrderSaga Process with OrderId 8bdc1d74-5a50-451b-bafd-ffbab7a9cd5d
+2019-04-15 22:32:02.444 INFO  OrderSaga Process with OrderId f5892d75-d8ce-488f-930b-831d9e385c76
+2019-04-15 22:32:02.453 INFO  OrderSaga Process with OrderId 6c0f39c7-97ea-4e37-bc87-603f60486efb
+2019-04-15 22:32:02.463 INFO  OrderSaga Process with OrderId 5f8961cb-9d35-4706-bf9a-fb2acf5add22
+2019-04-15 22:32:02.472 INFO  OrderSaga Process with OrderId 7414cc5e-3867-4a1d-ad36-09f9b01722b8
+2019-04-15 22:32:03.417 INFO  OrderSaga Process with OrderId 940b6b26-ec71-4280-9fd3-20edf66faaa4
+2019-04-15 22:32:03.435 INFO  OrderSaga Process with OrderId 6f93d1b1-80a6-4dc9-b230-18288bb71765
+2019-04-15 22:32:03.444 INFO  OrderSaga Process with OrderId 1f99ac5a-1f57-46f6-8eb9-23a27965599e
+2019-04-15 22:32:03.454 INFO  OrderSaga Process with OrderId 068c4d56-710b-4805-bd94-13ac269bd05d
+2019-04-15 22:32:03.465 INFO  OrderSaga Process with OrderId 820e83ea-7544-4f5a-b02a-46e535adc9db
+2019-04-15 22:32:03.475 INFO  OrderSaga Process with OrderId a6373862-e697-480c-b320-567ab9b3443a
+2019-04-15 22:32:03.485 INFO  OrderSaga Process with OrderId f5e70816-2f35-4c27-aba5-f9452007d1a5
+2019-04-15 22:32:04.433 INFO  OrderSaga Process with OrderId 9c14d81e-e8bb-4252-a308-110f635625f0
+2019-04-15 22:32:04.455 INFO  OrderSaga Process with OrderId 25a915e7-d273-4fd1-807f-03168caef273
+2019-04-15 22:32:04.466 INFO  OrderSaga Process with OrderId fe6c0eb4-6558-4abd-b2c6-8b2d46aaf2c3
+2019-04-15 22:32:04.477 INFO  OrderSaga Process with OrderId b70b46f0-6b79-40e9-82b3-4540cae5a978
+2019-04-15 22:32:04.488 INFO  OrderSaga Process with OrderId f058d11f-b6f3-4cf1-a827-4e3a5095f124
+2019-04-15 22:32:04.497 INFO  OrderSaga Process with OrderId 733cbe8e-bb73-4c87-a5d9-6eecd8ffb562
+2019-04-15 22:32:04.507 INFO  OrderSaga Process with OrderId 59727bc7-064f-4c2a-97fb-9d80ccfe605d
+2019-04-15 22:32:05.456 INFO  OrderSaga Last step CompleteOrder received with OrderId 4caf4a8d-6841-462d-bebe-9774e47a2cd3
+2019-04-15 22:32:05.479 INFO  OrderSaga Process with OrderId 3bf4b6ae-c178-481b-8e0f-2ed74a51ff29
+2019-04-15 22:32:05.496 INFO  OrderSaga Last step CompleteOrder received with OrderId 076d007a-9bf5-4b09-a29a-c506f1af321b
+2019-04-15 22:32:05.506 INFO  OrderSaga Process with OrderId 0c812e15-964d-4c76-afcf-f8bef3984b99
+2019-04-15 22:32:05.516 INFO  OrderSaga Last step CompleteOrder received with OrderId f50c24a4-3167-4e00-a7b7-1c68fa35a31d
+2019-04-15 22:32:05.524 INFO  OrderSaga Last step CompleteOrder received with OrderId fdd0462d-e3e4-4d0e-9d06-1af0ce871d6e
+2019-04-15 22:32:05.532 INFO  OrderSaga Process with OrderId eeae9d6c-0b18-4e0b-8d5f-2da08d37dc42
+2019-04-15 22:32:05.541 INFO  OrderSaga Process with OrderId 8219d43d-2e58-4240-a177-e8ab1b61fcfe
+2019-04-15 22:32:05.550 INFO  OrderSaga Last step CompleteOrder received with OrderId a6770b52-f440-48f7-aff4-7bf642192d6b
+2019-04-15 22:32:05.559 INFO  OrderSaga Last step CompleteOrder received with OrderId bde48920-82e2-485b-8747-77c839133970
+2019-04-15 22:32:05.567 INFO  OrderSaga Process with OrderId a6312c87-2dad-4947-a2cd-85f0540543af
+2019-04-15 22:32:05.576 INFO  OrderSaga Process with OrderId 6118d57b-14d8-425b-998b-7929c33f67e1
+2019-04-15 22:32:05.586 INFO  OrderSaga Process with OrderId 73799249-5b11-4c0e-b070-1e83c288f1ef
+2019-04-15 22:32:06.503 INFO  OrderSaga Last step CompleteOrder received with OrderId 193cf0ec-6b69-4559-b853-9b5a7746b0f9
+2019-04-15 22:32:06.523 INFO  OrderSaga Process with OrderId 4ad23868-d8b9-4677-998f-57cde25f6830
+2019-04-15 22:32:06.534 INFO  OrderSaga Last step CompleteOrder received with OrderId 425f22f6-3b54-49fc-bd21-485f16b157a9
+2019-04-15 22:32:06.542 INFO  OrderSaga Process with OrderId f9e649c5-9867-4467-b5e2-19cd1846bd57
+2019-04-15 22:32:06.552 INFO  OrderSaga Last step CompleteOrder received with OrderId 959fb309-baf6-4106-9162-36541f7a9861
+2019-04-15 22:32:06.560 INFO  OrderSaga Last step CompleteOrder received with OrderId 50fcf564-169e-41f0-b7bd-79b91f1b6c8a
+2019-04-15 22:32:06.568 INFO  OrderSaga Last step CompleteOrder received with OrderId 80bb38c6-a44c-404b-8ebb-32dafdc8f66c
+2019-04-15 22:32:06.576 INFO  OrderSaga Process with OrderId b79bb9a7-1e40-425f-9b32-365eba83c80f
+2019-04-15 22:32:06.585 INFO  OrderSaga Last step CompleteOrder received with OrderId 1815e632-5d72-41d6-a2e2-f6a2b5abc82b
+2019-04-15 22:32:06.593 INFO  OrderSaga Process with OrderId 51d6e548-43cb-4926-b1a0-81cda5c89996
+2019-04-15 22:32:07.526 INFO  OrderSaga Last step CompleteOrder received with OrderId 46c75ce7-d832-4016-8b52-a3e09bf87069
+2019-04-15 22:32:07.543 INFO  OrderSaga Last step CompleteOrder received with OrderId ef7a0c93-8f84-4a39-ac9d-d0b2c059e9eb
+2019-04-15 22:32:07.551 INFO  OrderSaga Last step CompleteOrder received with OrderId 1868b372-fa9d-440c-b42b-d19de76a60dd
+2019-04-15 22:32:07.559 INFO  OrderSaga Last step CompleteOrder received with OrderId 62502528-fa89-45de-b3ce-13998724e3eb
+2019-04-15 22:32:07.567 INFO  OrderSaga Last step CompleteOrder received with OrderId 0f69d69c-9aad-4faa-a8ec-5aa2e159d27b
+2019-04-15 22:32:07.575 INFO  OrderSaga Last step CompleteOrder received with OrderId 9b84e9b6-32ef-4939-b7ec-8725d98b24ff
+2019-04-15 22:32:08.563 INFO  OrderSaga Last step CompleteOrder received with OrderId 800c634d-6c87-4872-a752-4f975383ea85
+2019-04-15 22:32:08.578 INFO  OrderSaga Last step CompleteOrder received with OrderId 7414cc5e-3867-4a1d-ad36-09f9b01722b8
+2019-04-15 22:32:08.591 INFO  OrderSaga Last step CompleteOrder received with OrderId 6c0f39c7-97ea-4e37-bc87-603f60486efb
+2019-04-15 22:32:08.599 INFO  OrderSaga Last step CompleteOrder received with OrderId f5892d75-d8ce-488f-930b-831d9e385c76
+2019-04-15 22:32:08.606 INFO  OrderSaga Last step CompleteOrder received with OrderId 8bdc1d74-5a50-451b-bafd-ffbab7a9cd5d
+2019-04-15 22:32:08.614 INFO  OrderSaga Last step CompleteOrder received with OrderId 5f8961cb-9d35-4706-bf9a-fb2acf5add22
+2019-04-15 22:32:09.581 INFO  OrderSaga Last step CompleteOrder received with OrderId 6f93d1b1-80a6-4dc9-b230-18288bb71765
+2019-04-15 22:32:09.595 INFO  OrderSaga Last step CompleteOrder received with OrderId f5e70816-2f35-4c27-aba5-f9452007d1a5
+2019-04-15 22:32:09.608 INFO  OrderSaga Last step CompleteOrder received with OrderId 1f99ac5a-1f57-46f6-8eb9-23a27965599e
+2019-04-15 22:32:09.617 INFO  OrderSaga Last step CompleteOrder received with OrderId 940b6b26-ec71-4280-9fd3-20edf66faaa4
+2019-04-15 22:32:09.625 INFO  OrderSaga Last step CompleteOrder received with OrderId a6373862-e697-480c-b320-567ab9b3443a
+2019-04-15 22:32:09.632 INFO  OrderSaga Last step CompleteOrder received with OrderId 820e83ea-7544-4f5a-b02a-46e535adc9db
+2019-04-15 22:32:09.640 INFO  OrderSaga Last step CompleteOrder received with OrderId 068c4d56-710b-4805-bd94-13ac269bd05d
+2019-04-15 22:32:10.606 INFO  OrderSaga Last step CompleteOrder received with OrderId 9c14d81e-e8bb-4252-a308-110f635625f0
+2019-04-15 22:32:10.616 INFO  OrderSaga Last step CompleteOrder received with OrderId b70b46f0-6b79-40e9-82b3-4540cae5a978
+2019-04-15 22:32:10.625 INFO  OrderSaga Last step CompleteOrder received with OrderId 733cbe8e-bb73-4c87-a5d9-6eecd8ffb562
+2019-04-15 22:32:10.634 INFO  OrderSaga Last step CompleteOrder received with OrderId f058d11f-b6f3-4cf1-a827-4e3a5095f124
+2019-04-15 22:32:10.643 INFO  OrderSaga Last step CompleteOrder received with OrderId 59727bc7-064f-4c2a-97fb-9d80ccfe605d
+2019-04-15 22:32:10.652 INFO  OrderSaga Last step CompleteOrder received with OrderId 25a915e7-d273-4fd1-807f-03168caef273
+2019-04-15 22:32:10.661 INFO  OrderSaga Last step CompleteOrder received with OrderId fe6c0eb4-6558-4abd-b2c6-8b2d46aaf2c3
+2019-04-15 22:32:11.621 INFO  OrderSaga Last step CompleteOrder received with OrderId 3bf4b6ae-c178-481b-8e0f-2ed74a51ff29
+2019-04-15 22:32:11.633 INFO  OrderSaga Last step CompleteOrder received with OrderId 0c812e15-964d-4c76-afcf-f8bef3984b99
+2019-04-15 22:32:11.643 INFO  OrderSaga Last step CompleteOrder received with OrderId 6118d57b-14d8-425b-998b-7929c33f67e1
+2019-04-15 22:32:11.652 INFO  OrderSaga Last step CompleteOrder received with OrderId a6312c87-2dad-4947-a2cd-85f0540543af
+2019-04-15 22:32:11.661 INFO  OrderSaga Last step CompleteOrder received with OrderId 73799249-5b11-4c0e-b070-1e83c288f1ef
+2019-04-15 22:32:11.671 INFO  OrderSaga Last step CompleteOrder received with OrderId eeae9d6c-0b18-4e0b-8d5f-2da08d37dc42
+2019-04-15 22:32:11.681 INFO  OrderSaga Last step CompleteOrder received with OrderId 8219d43d-2e58-4240-a177-e8ab1b61fcfe
+2019-04-15 22:32:12.641 INFO  OrderSaga Last step CompleteOrder received with OrderId 4ad23868-d8b9-4677-998f-57cde25f6830
+2019-04-15 22:32:12.658 INFO  OrderSaga Last step CompleteOrder received with OrderId 51d6e548-43cb-4926-b1a0-81cda5c89996
+2019-04-15 22:32:12.672 INFO  OrderSaga Last step CompleteOrder received with OrderId b79bb9a7-1e40-425f-9b32-365eba83c80f
+2019-04-15 22:32:12.682 INFO  OrderSaga Last step CompleteOrder received with OrderId f9e649c5-9867-4467-b5e2-19cd1846bd57

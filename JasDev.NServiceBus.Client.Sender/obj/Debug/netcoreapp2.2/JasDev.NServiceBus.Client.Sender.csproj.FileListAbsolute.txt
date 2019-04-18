@@ -1,0 +1,14 @@
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.deps.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.runtimeconfig.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.runtimeconfig.dev.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.csprojAssemblyReference.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.csproj.CoreCompileInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.AssemblyInfoInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.AssemblyInfo.cs
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.csproj.CopyComplete
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\obj\Debug\netcoreapp2.2\JasDev.NServiceBus.Client.Sender.pdb

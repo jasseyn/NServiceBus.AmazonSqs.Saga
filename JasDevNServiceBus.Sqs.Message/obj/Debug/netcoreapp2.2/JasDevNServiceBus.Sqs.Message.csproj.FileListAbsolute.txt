@@ -1,0 +1,9 @@
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.deps.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.csproj.CoreCompileInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.AssemblyInfoInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.AssemblyInfo.cs
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDevNServiceBus.Sqs.Message\obj\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.csprojAssemblyReference.cache

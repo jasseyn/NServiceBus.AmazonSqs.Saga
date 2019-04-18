@@ -1,0 +1,18 @@
+﻿2019-04-18 12:37:20.197 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevNServiceBus.Sqs.Sender\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:37:20.486 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:37:20.722 INFO  JasDevNserviceBus.Sqs.Sender.Program Press 'P' to place an order, or 'Q' to quit.
+2019-04-18 12:37:26.567 INFO  JasDevNserviceBus.Sqs.Sender.Program Sending Start Oder command, OrderId = 71be780d-de7f-4b74-901c-8a73af711c2a
+2019-04-18 12:37:27.206 INFO  JasDevNserviceBus.Sqs.Sender.Program Press 'P' to place an order, or 'Q' to quit.
+2019-04-18 12:37:42.589 INFO  JasDevNserviceBus.Sqs.Sender.Program Unknown input. Please try again.
+2019-04-18 12:37:42.594 INFO  JasDevNserviceBus.Sqs.Sender.Program Press 'P' to place an order, or 'Q' to quit.
+2019-04-18 12:37:48.976 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:37:48.990 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-04-18 12:49:43.359 INFO  DefaultFactory Logging to 'C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.NServiceBus.Client.Sender\bin\Debug\netcoreapp2.2\' with level Info
+2019-04-18 12:49:43.716 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-04-16'.
+
+2019-04-18 12:49:43.926 INFO  JasDevNserviceBus.Sqs.Sender.Program Press 'P' to place an order, or 'Q' to quit.
+2019-04-18 12:49:48.967 INFO  JasDevNserviceBus.Sqs.Sender.Program Sending Start Oder command, OrderId = cabbfd7d-555f-4c98-81ed-7aa9bd584190
+2019-04-18 12:49:49.567 INFO  JasDevNserviceBus.Sqs.Sender.Program Press 'P' to place an order, or 'Q' to quit.
+2019-04-18 12:50:05.355 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-04-18 12:50:05.369 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.

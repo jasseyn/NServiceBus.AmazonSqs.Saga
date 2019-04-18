@@ -1,0 +1,16 @@
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\NServiceBus.Transport.Msmq\CreateQueues.ps1
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\NServiceBus.Transport.Msmq\DeleteQueues.ps1
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDev.Saga.deps.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDev.Saga.runtimeconfig.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDev.Saga.runtimeconfig.dev.json
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDev.Saga.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDev.Saga.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\bin\Debug\netcoreapp2.2\JasDevNServiceBus.Sqs.Message.pdb
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.csprojAssemblyReference.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.csproj.CoreCompileInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.AssemblyInfoInputs.cache
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.AssemblyInfo.cs
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.csproj.CopyComplete
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.dll
+C:\Dev2\JasDevNServiceBus.Sqs.Saga\JasDev.Saga\obj\Debug\netcoreapp2.2\JasDev.Saga.pdb
